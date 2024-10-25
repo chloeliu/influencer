@@ -202,7 +202,11 @@ const mapPostDataBatch = async (posts, userId, searchQuery) => {
 };
 
 // Function to fetch 10 latest posts for multiple users in batches
-const fetchUserLatestPostsBatch = async (userIds, searchQuery, batchSize = 10) => {
+const fetchUserLatestPostsBatch = async (
+  userIds,
+  searchQuery,
+  batchSize = 10
+) => {
   let allUserPosts = [];
   const totalUsers = userIds.length;
   const uniquePostIds = new Set();
@@ -250,7 +254,11 @@ const fetchUserLatestPostsBatch = async (userIds, searchQuery, batchSize = 10) =
 };
 
 // Function to fetch 10 most popular posts for multiple users
-const fetchUserPopularPostsBatch = async (userIds, searchQuery, batchSize = 13) => {
+const fetchUserPopularPostsBatch = async (
+  userIds,
+  searchQuery,
+  batchSize = 13
+) => {
   let allUserPosts = [];
   const totalUsers = userIds.length;
   const uniquePostIds = new Set();
@@ -367,6 +375,11 @@ const fetchPublicationBatch = async (searchQuery, currentPage, batchSize) => {
         description: item.bio,
         url: item.base_url,
         subscribers: parseInt(item.freeSubscriberCount.replace(/,/g, ""), 10),
+        author_name: item.author_name,
+        author_handle: item.author_handle,
+        author_photo_url: item.author_photo_url,
+        author_bio: item.author_bio,
+        twitter_screen_name: item.twitter_screen_name,
       }));
 
       allMappedResults.push(...mappedResults);
@@ -442,14 +455,22 @@ const scrapePublicationDataForQueries = async (searchQueries, batchSize) => {
     const userIds = allFilteredResults.map((author) => author.id);
 
     // Fetch latest posts for users in batches
-    const allUserLatestPosts = await fetchUserLatestPostsBatch(userIds, searchQuery, 10);
+    const allUserLatestPosts = await fetchUserLatestPostsBatch(
+      userIds,
+      searchQuery,
+      10
+    );
     writeResultsToFile(
       `${searchQuery}_substack_all_users_latest_posts.json`,
       allUserLatestPosts
     );
 
     // Fetch popular posts for users in batches
-    const allUserPopularPosts = await fetchUserPopularPostsBatch(userIds, searchQuery, 10);
+    const allUserPopularPosts = await fetchUserPopularPostsBatch(
+      userIds,
+      searchQuery,
+      10
+    );
     writeResultsToFile(
       `${searchQuery}_substack_all_users_popular_posts.json`,
       allUserPopularPosts
