@@ -3,1596 +3,2296 @@
     "id": 17194406,
     "name": "Dividend Growth Investor",
     "url": "https://www.dividendgrowthinvestor.org",
-    "subscribers": 12000
-  },
-  {
-    "id": 158408658,
-    "name": "AI Newsletter",
-    "url": "https://squeezegrowth.substack.com",
-    "subscribers": 64000
+    "subscribers": 12000,
+    "author_name": "Dividend Growth Investor",
+    "author_handle": "dividend",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7c30f80-480f-4b38-9895-705f00fe2b8f_145x115.jpeg",
+    "author_bio": "Dividend Growth Investor: I am a long term buy and hold investor who focuses on dividend growth stocks",
+    "twitter_screen_name": "DividendGrowth"
   },
   {
     "id": 4429439,
     "name": "Aakash Gupta",
     "url": "https://www.news.aakashg.com",
-    "subscribers": 138000
+    "subscribers": 141000,
+    "author_name": "Aakash Gupta",
+    "author_handle": "aakashgupta",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3813c698-29ba-4ae3-b8ea-81a60e8b4878_400x400.jpeg",
+    "author_bio": "The product growth guy. Helping PMs, product leaders, and aspiring PMs succeed",
+    "twitter_screen_name": "aakashg0"
   },
   {
     "id": 10719629,
     "name": "Sylvain Gauchet",
     "url": "https://growthgems.substack.com",
-    "subscribers": 9000
+    "subscribers": 9000,
+    "author_name": "Sylvain Gauchet",
+    "author_handle": "growthgems",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b4fc66d-30ae-4000-91bb-ca4c1e463fe9_1367x1367.png",
+    "author_bio": "Chief Insights Miner @ GrowthGems.co / Growth @ Babbel US",
+    "twitter_screen_name": "sylvainww"
   },
   {
     "id": 3478323,
     "name": "Elena Verna",
     "url": "https://www.elenaverna.com",
-    "subscribers": 50000
+    "subscribers": 51000,
+    "author_name": "Elena Verna",
+    "author_handle": "plgrowth",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6eeab89f-c508-46ec-91a1-9e8e3ce3021a_1926x2892.jpeg",
+    "author_bio": "Always be learning. \nCurrently doing growth at dropbox. Previously surveymonkey, miro, amplitude, netlify. Advised mongodb, clockwise, sanity.io, krisp, and many more. "
   },
   {
     "id": 32403705,
     "name": "Growth Rockstar",
     "url": "https://blog.growthrockstar.com",
-    "subscribers": 11000
+    "subscribers": 12000,
+    "author_name": "Growth Rockstar",
+    "author_handle": "growthrockstar",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48f91133-f1c6-4ced-9e54-46a191ea0ed0_3908x3908.png",
+    "author_bio": null
   },
   {
     "id": 3477063,
     "name": "Kyle Poyar",
     "url": "https://www.growthunhinged.com",
-    "subscribers": 56000
+    "subscribers": 57000,
+    "author_name": "Kyle Poyar",
+    "author_handle": "kylepoyar",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e6176aa-0699-4dfc-af3b-561d987c6632_3600x2401.jpeg",
+    "author_bio": "Obsessed with SaaS revenue growth. Follow along by reading Growth Unhinged, my weekly newsletter: https://www.growthunhinged.com/",
+    "twitter_screen_name": "poyark"
   },
   {
     "id": 54694896,
     "name": "Diego Flores",
     "url": "https://growthmorning.substack.com",
-    "subscribers": 5000
+    "subscribers": 5000,
+    "author_name": "Diego Flores",
+    "author_handle": "growthmorning",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F48525a4a-cbfc-47a4-af4d-b799dfa79c95_450x450.jpeg",
+    "author_bio": "Product & Growth Guy, Engineer & Content creator\n\nLifelong and fast learner. Focus on Strategy, Growth, Product & Startups",
+    "twitter_screen_name": "diegofloresosam"
   },
   {
     "id": 556308,
     "name": "Kevin Indig",
     "url": "https://www.growth-memo.com",
-    "subscribers": 14000
+    "subscribers": 15000,
+    "author_name": "Kevin Indig",
+    "author_handle": "kevinindig",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0d55af9f-b472-4efe-b0ab-8f1f1895ac8b_1600x1600.png",
+    "author_bio": "Growth advisor.\nWriter of the Growth Memo.\n"
   },
   {
     "id": 109639871,
     "name": "La Growth Company",
     "url": "https://lagrowthsemaine.substack.com",
-    "subscribers": 8000
+    "subscribers": 8000,
+    "author_name": "Yann Leonardi",
+    "author_handle": "lagrowthsemaine",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb75510c7-6bb5-4513-a3b2-ec3b043fbf8e_1128x1210.png",
+    "author_bio": "Consultant Growth Marketing et Branding. Auteur du livre \"Growth Marketing\", 2022 aux éditions Eyrolles."
   },
   {
     "id": 58854493,
     "name": "Jordan Cutler",
     "url": "https://read.highgrowthengineer.com",
-    "subscribers": 76000
+    "subscribers": 77000,
+    "author_name": "Jordan Cutler",
+    "author_handle": "jordancutler",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4fe86d99-af64-4285-b982-9466a4c58d63_1311x1312.jpeg",
+    "author_bio": "Senior Software Engineer @ Pinterest. I help engineers fast-track their career through real-world, actionable advice.\n\nAuthor of High Growth Engineer newsletter (75k+ subscribers): https://read.highgrowthengineer.com/"
   },
   {
     "id": 235226484,
     "name": "Chris Rodgers",
     "url": "https://www.love-growth.com",
-    "subscribers": 10000
+    "subscribers": 10000,
+    "author_name": "Chris Rodgers",
+    "author_handle": "lovegrowth",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffebc228f-7db8-4c5e-b387-6fae96e6bbde_1080x1080.png",
+    "author_bio": "I'm a business development and marketing professional focusing on the legal sector across the UK, America and Australia."
   },
   {
     "id": 193035633,
     "name": "The Growth Tribe",
     "url": "https://thegrowthtribe.substack.com",
-    "subscribers": 50000
+    "subscribers": 49000,
+    "author_name": "Sayan",
+    "author_handle": "thegrowthtribe",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd1fcad19-2763-453b-813b-2af024ec3e54_96x96.jpeg",
+    "author_bio": "Join 40,000+ founders and marketers from across the globe for a dose of ecom marketing strategies, hacks, and industry updates. Free! 🚀"
   },
   {
     "id": 250128,
     "name": "Reid DeRamus",
     "url": "https://www.reidtandy.com",
-    "subscribers": 11000
+    "subscribers": 11000,
+    "author_name": "Reid DeRamus",
+    "author_handle": "reidtandy",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4188113f-e410-4ce7-88c8-ad2f78d8831a_2200x2201.png",
+    "author_bio": "Writing & tinkering.",
+    "twitter_screen_name": "reidtandy"
   },
   {
     "id": 32914908,
     "name": "Robert Talbert",
     "url": "https://gradingforgrowth.com",
-    "subscribers": 5000
+    "subscribers": 5000,
+    "author_name": "Robert Talbert",
+    "author_handle": "gradingforgrowth",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0f1b3eeb-c9a7-4347-aea3-806de2462d16_500x459.jpeg",
+    "author_bio": "Math professor, writer, bass guitarist, dad, Catholic. I write about alternative grading at gradingforgrowth.com and about working purposefully in academia at intentionalacademia.substack.com. Main website: rtalbert.org",
+    "twitter_screen_name": "RobertTalbert"
   },
   {
     "id": 18498645,
     "name": "Jonah Lupton, Lupton Capital",
     "url": "https://growthstockdeepdives.substack.com",
-    "subscribers": 40000
+    "subscribers": 40000,
+    "author_name": "Jonah Lupton",
+    "author_handle": "growthstockdeepdives",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6b59f39e-dbf7-4d4e-ba03-2425e5bac69a_400x400.jpeg",
+    "author_bio": "Entrepreneur. Investor. Podcaster. "
   },
   {
     "id": 57574244,
     "name": "Koby Conrad",
     "url": "https://www.channelsofgrowth.com",
-    "subscribers": 14000
+    "subscribers": 14000,
+    "author_name": "Koby Conrad",
+    "author_handle": "channelsofgrowth",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1c2e3584-2e77-4708-af43-0571fe3d6367_400x400.jpeg",
+    "author_bio": "Head of Growth @ Rupa Health, YC Alumni, ex agency life. Creating content in San Francisco. 🌉",
+    "twitter_screen_name": "kobyjconrad"
   },
   {
     "id": 12043293,
     "name": "(c) Growthstore.xyz",
     "url": "https://insights.growthstore.xyz",
-    "subscribers": 24000
+    "subscribers": 24000,
+    "author_name": "Sri and Ramesh",
+    "author_handle": "growthstore",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F14275223-2f6e-4d51-9cb8-9ed0149f299e_534x467.png",
+    "author_bio": "Hey! Are you looking for a place to learn about all things startups? Look no further! We write long-form essays covering a wide range of topics, from Culture to Product, Strategy to Tech, from SaaS to Creator Economy.\n\n",
+    "twitter_screen_name": "GrowthStoreXYZ"
   },
   {
     "id": 363501,
     "name": "Henry Berry",
     "url": "https://b2bpricinginsights.substack.com",
-    "subscribers": 13000
+    "subscribers": 13000,
+    "author_name": "Henryberry801",
+    "author_handle": "b2bpricing",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2a011a42-9bb4-4139-b674-f280b052a841_400x400.jpeg",
+    "author_bio": "Product, strategy and industry deep dives",
+    "twitter_screen_name": "HenryGBerry"
   },
   {
     "id": 12223802,
     "name": "GrowthX",
     "url": "https://shorts.growthx.club",
-    "subscribers": 124000
+    "subscribers": 126000,
+    "author_name": "Abhishek",
+    "author_handle": "abhishekfromgrowthx",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d1bb4a9-e2b1-490e-a6da-2bbf6501f470_512x512.png",
+    "author_bio": "Co-founder GrowthX | Prev. led growth at CRED, Dunzo & Sokrati.",
+    "twitter_screen_name": "abhishekpatiil"
   },
   {
     "id": 4042156,
     "name": "Ami Vora",
     "url": "https://amivora.substack.com",
-    "subscribers": 32000
+    "subscribers": 32000,
+    "author_name": "Ami Vora",
+    "author_handle": "amivora",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff7acdc23-18ef-4d3f-a0bc-0a746e53ea41_640x640.jpeg",
+    "author_bio": "CPO @ Faire. ~20 years in tech. Early at Facebook, Instagram, and WhatsApp.  Love my 3 young children, and also (coincidentally?) solo travel.  Always curious."
   },
   {
     "id": 3232672,
     "name": "Deepak Singh",
     "url": "https://www.growth-catalyst.in",
-    "subscribers": 12000
+    "subscribers": 12000,
+    "author_name": "Deepak Singh, pmcurve.com",
+    "author_handle": "deepaksingh",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd22f634-0039-4d28-ac22-a9782c13b798_1452x1090.jpeg",
+    "author_bio": "Founder, pmcurve.com. Ex- Flipkart, Unacademy. Writing about Product and Growth. ",
+    "twitter_screen_name": "Deepak_Singh100"
   },
   {
     "id": 32894644,
     "name": "Pierre-Jean Hillion",
     "url": "https://thegrowthmind.substack.com",
-    "subscribers": 6000
-  },
-  {
-    "id": 259208631,
-    "name": "ThriveStack",
-    "url": "https://tscontent.substack.com",
-    "subscribers": 7000
+    "subscribers": 6000,
+    "author_name": "Pierre-Jean Hillion",
+    "author_handle": "thegrowthmind",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b188f9c-b163-4647-a30c-042aef52adf0_2000x2037.jpeg",
+    "author_bio": "Working as a Growth Manager @Rayon.design\n\nSharing Growth articles every 2 weeks in The Growth Mind  \n"
   },
   {
     "id": 407186,
     "name": "Austin Lieberman",
     "url": "https://austin.substack.com",
-    "subscribers": 8000
+    "subscribers": 8000,
+    "author_name": "Austin Lieberman",
+    "author_handle": "austin",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F833f600e-8a22-452b-9649-6f58386de3e7_600x600.jpeg",
+    "author_bio": "I simplify investing for busy people. Building a $1 million portfolio of high-quality businesses. I write about quality stocks, investor mindset, and my mistakes. ",
+    "twitter_screen_name": "LiebermanAustin"
   },
   {
     "id": 1849774,
     "name": null,
     "url": "https://www.lennysnewsletter.com",
-    "subscribers": 820000
+    "subscribers": 837000,
+    "author_name": "Lenny Rachitsky",
+    "author_handle": "lenny",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafba5161-65bb-4d99-8d6b-cce660917fa1_1540x1540.png",
+    "author_bio": "Writing • Angel investing • Advising",
+    "twitter_screen_name": "lennysan"
   },
   {
     "id": 70741339,
     "name": "Tiger Abrodi",
     "url": "https://www.saiyangrowthletter.com",
-    "subscribers": 5000
+    "subscribers": 5000,
+    "author_name": "Tiger Abrodi",
+    "author_handle": "tigerabrodi",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa6147c0a-6f1f-45e8-bf11-a22e4d0591a5_2389x2523.jpeg",
+    "author_bio": "I help software engineers excel in their career, craft and lifestyle."
   },
   {
     "id": 2698820,
     "name": "Wamide A",
     "url": "https://wamide.substack.com",
-    "subscribers": 8000
+    "subscribers": 8000,
+    "author_name": "Wamide A",
+    "author_handle": "wamide",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb8f5108-4a3d-4c58-8560-a5e16a7a2e8b_500x500.jpeg",
+    "author_bio": "Making career transition possible for everyday people through actionable content, resources and coaching! \n\n "
   },
   {
     "id": 142877028,
     "name": "Voltage Holdings, LLC",
     "url": "https://voltagedm.substack.com",
-    "subscribers": 10000
+    "subscribers": 10000,
+    "author_name": "Voltage Digital",
+    "author_handle": "voltagedm",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f756c60-95b5-48b2-b760-0b05a60ef9b6_1000x1000.png",
+    "author_bio": "Voltage builds amazing brands for ecommerce with a focus on the Amazon FBA & Direct To Customer channels. And supports business builders, entrepreneurs and solopreneurs looking to grow, and scale profitable brands to exit in 36 months!"
   },
   {
     "id": 3666124,
     "name": "TPan",
     "url": "https://tpan.substack.com",
-    "subscribers": 6000
+    "subscribers": 6000,
+    "author_name": "TPan",
+    "author_handle": "tpan",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F652340b3-c656-4f24-9618-b9150b3edf87_1000x1000.jpeg",
+    "author_bio": "Web3 Marketing, Growth, and Culture",
+    "twitter_screen_name": "TPan_Web3"
   },
   {
     "id": 97125295,
     "name": "Adam Fishman",
     "url": "https://www.fishmanafnewsletter.com",
-    "subscribers": 11000
+    "subscribers": 11000,
+    "author_name": "Adam Fishman",
+    "author_handle": "fishmanaf",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1f6bf32c-c0d9-4ac5-b7cd-d45d9325f851_1168x1170.jpeg",
+    "author_bio": "Product & Growth Exec; Currently Interim SVP New Products @Mozilla. Partner @Reforge. Hockey player. Dad. Michigan alum.",
+    "twitter_screen_name": "fishmanaf"
   },
   {
     "id": 18104096,
     "name": "Bandan Jot Singh",
     "url": "https://productify.substack.com",
-    "subscribers": 29000
+    "subscribers": 30000,
+    "author_name": "Bandan Jot Singh",
+    "author_handle": "productify",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feeb6cab6-9c27-42ba-a1e2-18bf52d4f5e1_630x654.png",
+    "author_bio": "Author @ Productify - your home to Strategy and Product Growth Deep-dives",
+    "twitter_screen_name": "bandanjot"
   },
   {
     "id": 87732486,
     "name": "Alex Ewerlöf",
     "url": "https://blog.alexewerlof.com",
-    "subscribers": 11000
+    "subscribers": 11000,
+    "author_name": "Alex Ewerlöf",
+    "author_handle": "alexewerlof",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2713990-da82-481b-b579-01a7aaa5b85b_560x560.jpeg",
+    "author_bio": "Writes about technical leadership, growth mindset, and system reliability engineering.\n\nSenior Staff Engineer, MSc Systems Engineering from KTH, Stockholmer, dad, amateur artist.\n\nRead more here: https://www.alexewerlof.com/who",
+    "twitter_screen_name": "alexewerlof"
   },
   {
     "id": 410307,
     "name": "Antonio García Martínez",
     "url": "https://blog.spindl.xyz",
-    "subscribers": 6000
-  },
-  {
-    "id": 305117,
-    "name": "Kerman Kohli",
-    "url": "https://kermankohli.substack.com",
-    "subscribers": 9000
+    "subscribers": 6000,
+    "author_name": "Antonio García Martínez",
+    "author_handle": "pullrequest",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F192782d2-1d91-4ef7-8432-b6299401b1bb_400x400.jpeg",
+    "author_bio": "Author 'Chaos Monkeys'. Formerly Facebook, Y Combinator and (briefly) Apple. \n\nI don't look for drama, drama finds me."
   },
   {
     "id": 21129696,
     "name": "Kris",
     "url": "https://www.multibaggernuggets.com",
-    "subscribers": 6000
+    "subscribers": 6000,
+    "author_name": "Kris",
+    "author_handle": "multibaggernuggets",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F63eb0b34-f97c-4660-a155-ba84bfb60781_1060x1060.jpeg",
+    "author_bio": "Founder of Potential Multibaggers and Best Anchor Stocks ",
+    "twitter_screen_name": "FromValue"
   },
   {
     "id": 14789760,
     "name": "Sara Tasker",
     "url": "https://meandorla.substack.com",
-    "subscribers": 29000
-  },
-  {
-    "id": 1000771,
-    "name": "Eli Schwartz",
-    "url": "https://www.productledseo.com",
-    "subscribers": 7000
-  },
-  {
-    "id": 43851491,
-    "name": "Josh Turner",
-    "url": "https://jtblueprint.substack.com",
-    "subscribers": 86000
+    "subscribers": 29000,
+    "author_name": "Sara Tasker - Me & Orla",
+    "author_handle": "saratasker",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc14e828-6198-449f-94c5-d35328b153de_720x720.jpeg",
+    "author_bio": "Creative Business Coach • Writer & Photographer • iTunes #1 Business Podcast host • Bestselling Author • Instagram Nerd",
+    "twitter_screen_name": "meandorla"
   },
   {
     "id": 250322310,
     "name": "Grow Getters Group",
     "url": "https://growgettersgroup.substack.com",
-    "subscribers": 18000
+    "subscribers": 18000,
+    "author_name": "Grow Getters Group",
+    "author_handle": "growgettersgroup",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09cf416d-2b27-4c03-9e6f-aa92fafa04e9_1080x1080.jpeg",
+    "author_bio": null
   },
   {
     "id": 6835984,
     "name": "Luca Rossi",
     "url": "https://hybridhacker.email",
-    "subscribers": 38000
+    "subscribers": 38000,
+    "author_name": "Luca Rossi",
+    "author_handle": "refactoring",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff6107486-b701-4109-8f21-f450fed6e277_652x690.png",
+    "author_bio": "I write everyday about how to make great software and work well with humans, to 60K+ friends.",
+    "twitter_screen_name": "nicolaballotta"
   },
   {
     "id": 70759671,
     "name": "Emmy Marie",
     "url": "https://bloomingwithemmy.substack.com",
-    "subscribers": 14000
+    "subscribers": 14000,
+    "author_name": "Emmy Marie",
+    "author_handle": "bloomingwithemmy",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c186c46-7e86-4ae5-ad3c-988829a48ff9_1080x1440.jpeg",
+    "author_bio": "Certified trauma-informed and somatic trained coach. Survivor. Writer. Enneagram 2w3, Taurus Sun, Sagittarius Moon, Libra Rising. Recovering people-pleaser. Lover of books, October, traveling, food, and The Office."
   },
   {
     "id": 58781311,
     "name": "ProducTea GmBH",
     "url": "https://www.leahtharin.com",
-    "subscribers": 25000
+    "subscribers": 25000,
+    "author_name": "Leah Tharin",
+    "author_handle": "leahtharin",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb6fa99e0-0e8d-4e13-aa28-2f60bc3875cf_582x765.jpeg",
+    "author_bio": "Product-led Growth / Sales, Growth, and Org scaling in B2B without the bs. ",
+    "twitter_screen_name": "LeahThar"
   },
   {
     "id": 27297406,
     "name": "Rita McGrath",
     "url": "https://thoughtsparks.substack.com",
-    "subscribers": 8000
+    "subscribers": 8000,
+    "author_name": "Rita McGrath",
+    "author_handle": "thoughtsparks",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa756f70e-5790-4bda-b318-50ad3f38c774_1280x854.jpeg",
+    "author_bio": "Author, globally recognized thought leader and advisor to organizations.",
+    "twitter_screen_name": "rgmcgrath"
   },
   {
     "id": 188148342,
     "name": "Ecom Circle",
     "url": "https://ecomcircle.substack.com",
-    "subscribers": 40000
+    "subscribers": 35000,
+    "author_name": "Ecom Circle",
+    "author_handle": "ecomcircle",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6f3939a-128e-4691-bacd-d7ea7f9b98d8_2000x1500.png",
+    "author_bio": "A community of 10k+ ecom founders and marketing professionals sharing learnings, experience and opportunities"
   },
   {
     "id": 100437998,
-    "name": "Modern Widows Club",
+    "name": "Modern Widows Club® | The Movement for Widow Care (MWC)",
     "url": "https://modernwidowsclub.substack.com",
-    "subscribers": 13000
+    "subscribers": 14000,
+    "author_name": "Modern Widows Club",
+    "author_handle": "modernwidowsclub",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3d6d83c1-9680-4407-84bf-8f6f345ace7f_256x256.png",
+    "author_bio": "Where Widows Go.",
+    "twitter_screen_name": "ModernWidows"
   },
   {
     "id": 28634301,
     "name": "Threado Inc.",
     "url": "https://threado.substack.com",
-    "subscribers": 5000
+    "subscribers": 5000,
+    "author_name": "Shalini Nair Tekwani",
+    "author_handle": "threado",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbf781b06-f707-43b1-b5ea-c7cb7fa2e2e5_1400x1400.jpeg",
+    "author_bio": "Growing Threado and deconstructing the art of community building. ",
+    "twitter_screen_name": "ThreadoHQ"
   },
   {
     "id": 197182830,
     "name": "Ecom Circle",
     "url": "https://ecommercecircle.substack.com",
-    "subscribers": 59000
+    "subscribers": 55000,
+    "author_name": "Ecom Circle",
+    "author_handle": "ecommercecircle",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f2f8a84-38f1-43ba-9843-53c0cc5dc693_96x96.jpeg",
+    "author_bio": "A community of 80k+ ecom founders and marketing professionals sharing learnings, experience and opportunities"
   },
   {
     "id": 170998285,
     "name": "Strategize Your Career",
     "url": "https://strategizeyourcareer.com",
-    "subscribers": 12000
+    "subscribers": 12000,
+    "author_name": "Fran Soto",
+    "author_handle": "fransotodev",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10f90fdb-11ac-48b4-8f51-6a59e07763d2_1149x1149.png",
+    "author_bio": "I’m a software engineer at Amazon. 1:1s with my managers were not enough for me to explore all the career topics I care about. So I decided to start writing."
   },
   {
     "id": 227628798,
     "name": "Abhishek Gupta",
     "url": "https://geniusspeakers.substack.com",
-    "subscribers": 6000
+    "subscribers": 6000,
+    "author_name": "Abhishek Gupta",
+    "author_handle": "geniusspeakers",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5b2b1adc-d73f-4b7d-8f60-8feb2ed591ba_200x200.png",
+    "author_bio": "Life coach Mr. Abhishek Gupta aims to help people take a leap of faith into enhanced productivity. \n\nA believer of deep learning and sustained growth, Abhishek Gupta created a niche for him in the world of self-help and public speaking. "
   },
   {
     "id": 256312232,
     "name": "Karen Caputo",
     "url": "https://karencaputo.substack.com",
-    "subscribers": 5000
+    "subscribers": 5000,
+    "author_name": "Friends of Hollywood Florida",
+    "author_handle": "friendsofhollywoodflorida",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb6788b55-616d-42bc-8a9c-de69bb4febf4_960x960.jpeg",
+    "author_bio": "Friends of Hollywood Florida Inc."
   },
   {
     "id": 1441370,
     "name": "Jason Sandford",
     "url": "https://ashevegashotsheet.substack.com",
-    "subscribers": 5000
-  },
-  {
-    "id": 251695743,
-    "name": "BeatMarket Oy - MaxDividends",
-    "url": "https://www.maxdividends.com",
-    "subscribers": 11000
+    "subscribers": 5000,
+    "author_name": "Jason Sandford",
+    "author_handle": "ashevegashotsheet",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafad5852-0705-47cb-bfb5-6fa817db7071_320x320.jpeg",
+    "author_bio": "Asheville, N.C., reporter, writer, photographer; founder of Ashvegas.com; former newspaper editor, reporter.",
+    "twitter_screen_name": "Ashevegas"
   },
   {
     "id": 58770480,
     "name": "Hemant Pandey",
     "url": "https://thehustlingengineer.substack.com",
-    "subscribers": 13000
+    "subscribers": 14000,
+    "author_name": "Hemant Pandey",
+    "author_handle": "hemantpandey",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5d8aef1-0399-40a0-9537-5615ca0fe8d4_1166x1167.jpeg",
+    "author_bio": "Senior SWE and Tech Lead at Facebook | Writes about career growth, study abroad and life experiences"
   },
   {
     "id": 152057824,
     "name": "Vitor Peçanha",
     "url": "https://pecachave.substack.com",
-    "subscribers": 44000
+    "subscribers": 45000,
+    "author_name": "Vitor Peçanha",
+    "author_handle": "pecanha",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d5269e9-236f-476a-afb1-f92cd5faed53_1000x1000.png",
+    "author_bio": null
   },
   {
     "id": 27060843,
     "name": "Megan Batoon",
     "url": "https://meganbatoon.substack.com",
-    "subscribers": 6000
+    "subscribers": 6000,
+    "author_name": "Megan Batoon",
+    "author_handle": "meganbatoon",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4e20385-92e3-4c9f-8c30-6d27c1b04b6b_400x400.jpeg",
+    "author_bio": "your recommendation station for all things self discovery and lifestyle",
+    "twitter_screen_name": "meganbatoon"
   },
   {
     "id": 236120828,
     "name": "Eltoro Insights, LLC",
     "url": "https://eltoromarketinsights.substack.com",
-    "subscribers": 418000
+    "subscribers": 501000,
+    "author_name": "Harry Colt",
+    "author_handle": "marketinsiders",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbf66b7b4-12f0-42a7-a9f7-7a9d93b296b8_896x1008.jpeg",
+    "author_bio": "Wall Street Veteran & Market Maverick Samurai : 30+ years in hedge funds, PhD in Economics & Computer Science. Father of 5, sharing insider insights to level the playing field. Substack is the new town square."
   },
   {
     "id": 75339582,
     "name": "Double LLC",
     "url": "https://doubleagency.substack.com",
-    "subscribers": 18000
+    "subscribers": 18000,
+    "author_name": "Pieter Moorman",
+    "author_handle": "pietermoorman",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc0f52439-e62e-4cc1-821b-a082f0bca3a3_800x800.jpeg",
+    "author_bio": "Founder of Double Agency I Helping startups & scale-ups build durable pathways to growth"
   },
   {
     "id": 22267124,
     "name": "Cory Allen",
     "url": "https://coryallen.substack.com",
-    "subscribers": 28000
+    "subscribers": 28000,
+    "author_name": "Cory Allen",
+    "author_handle": "coryallen",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c29d30a-7990-4e25-ad8b-8d5210575905_908x908.jpeg",
+    "author_bio": "NEW BOOK: BRAVE NEW YOU\n\nI write slow thoughts for fast times. Offering inspiring, no-nonsense words on mindset, mental clarity, and self-trust. "
   },
   {
     "id": 161454686,
     "name": "Snowflair",
     "url": "https://lewisg.substack.com",
-    "subscribers": 19000
+    "subscribers": 19000,
+    "author_name": "Snowflair",
+    "author_handle": "snowflairinc",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7237061a-0e36-425c-8caa-37f73ea88e45_538x336.png",
+    "author_bio": null
   },
   {
     "id": 5651079,
     "name": "keith newman",
     "url": "https://keithnewman.substack.com",
-    "subscribers": 22000
+    "subscribers": 22000,
+    "author_name": "keith newman",
+    "author_handle": "keithnewman",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd62fcf8-9374-438c-86d7-977e33f7eab3_2048x1536.jpeg",
+    "author_bio": "Former Journalist turned entrepreneur and go to market consultant to hi-growth startups is sharing ideas and personal views on how to navigate the roller coaster that is known as thestartup journey. Please share! Subscribe! Succeed. "
   },
   {
     "id": 18675193,
     "name": "MKT1, LLC",
     "url": "https://newsletter.mkt1.co",
-    "subscribers": 46000
+    "subscribers": 48000,
+    "author_name": "Emily Kramer",
+    "author_handle": "emilyjkramer",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64be2bb5-a435-4c2b-8970-f001c70ad31f_512x512.png",
+    "author_bio": "I help startups build effective B2B marketing functions. I'm the co-founder of MKT1, and previously built and led the marketing teams at Asana and Carta."
   },
   {
     "id": 251636963,
     "name": "Gabriella Strano",
     "url": "https://curlmaven.substack.com",
-    "subscribers": 13000
+    "subscribers": 12000,
+    "author_name": "Gabriella Strano",
+    "author_handle": "curlmaven",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F231266ce-17be-408b-9a12-3e6f8b4cb681_2592x2592.jpeg",
+    "author_bio": "Sharing my holistic approach to personal growth, health + wellness. Weaving together astrology + spirituality to navigate life. "
   },
   {
     "id": 200739888,
     "name": "NoGood",
     "url": "https://newsletter.nogood.io",
-    "subscribers": 6000
+    "subscribers": 6000,
+    "author_name": "NoGood",
+    "author_handle": "nogood",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0f3bb8ff-8637-45c2-a2d9-d364e770cca9_1080x1080.png",
+    "author_bio": "The growth squad behind some of the world’s most successful brands.\n\nIf you’re looking for a traditional marketing agency, we’re NoGood for that."
   },
   {
     "id": 4005715,
     "name": "Wes Kao",
     "url": "https://newsletter.weskao.com",
-    "subscribers": 52000
+    "subscribers": 53000,
+    "author_name": "Wes Kao",
+    "author_handle": "weskao",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F760ba584-c3db-46a5-840d-6c85b33acabc_2447x2447.jpeg",
+    "author_bio": "Co-founder of Maven (First Round, Andreessen Horowitz). Co-founder of altMBA with Seth Godin. Now coaching tech leaders on managing up, executive communication, and raising the bar. Sharing lessons every Wednesday at 8am ET"
   },
   {
     "id": 6925166,
     "name": "Caroline Mignaux",
     "url": "https://www.lessecretsdumarketing.com",
-    "subscribers": 10000
+    "subscribers": 10000,
+    "author_name": "Caroline Mignaux ⚡️",
+    "author_handle": "carolinemignaux",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb206bd3-7c31-4a5d-a87a-0586615cf7ea_2350x2551.jpeg",
+    "author_bio": "📈 Entrepreneur & Conférencière\n📣 LinkedIn Top Voice\n🎙 Podcaster \"Marketing Square\"",
+    "twitter_screen_name": "carolinemignaux"
   },
   {
     "id": 107476593,
     "name": "Epic Web3",
     "url": "https://epicweb3.substack.com",
-    "subscribers": 25000
+    "subscribers": 25000,
+    "author_name": "Epic Web3",
+    "author_handle": "epicweb3",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff7fd1bb5-aac7-4db5-bec6-386664c2abe7_600x600.png",
+    "author_bio": null
   },
   {
     "id": 263185557,
     "name": "Ana Calin",
     "url": "https://howwegrowtoday.substack.com",
-    "subscribers": 25000
+    "subscribers": 25000,
+    "author_name": "Ana Calin",
+    "author_handle": "howwegrowtoday",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b1deb04-e24a-4f12-af95-c9941a3c4a34_1500x1500.png",
+    "author_bio": "From corporate exec to artist and solopreneur—now inspiring 25K+ creators weekly to start their portfolio career through actionable growth strategies. 1B+ views, $1M in brand deals, and Forbes Marketing Leader."
   },
   {
     "id": 12479575,
     "name": "Startup Riders",
     "url": "https://www.startupriders.com",
-    "subscribers": 13000
+    "subscribers": 13000,
+    "author_name": "Ivan Landabaso",
+    "author_handle": "startupriders",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F706df7be-bd1c-482d-b815-62d910dbccad_233x233.jpeg",
+    "author_bio": "I write about startups, strategy and revenue growth. Partner: JME.vc. Founder: RevenueSquared.io. Previously: @facebook @bloomreach.",
+    "twitter_screen_name": "IvanLandabaso"
   },
   {
     "id": 1862747,
     "name": "Michael Wong ⚡️",
     "url": "https://mizko.substack.com",
-    "subscribers": 31000
+    "subscribers": 31000,
+    "author_name": "Michael Wong (Mizko) ⚡️",
+    "author_handle": "mizko",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3c3b722f-b39a-46a2-8896-ae9ca6e294a6_1400x1400.jpeg",
+    "author_bio": "Designer, investor and educator.\nBootstrapped entrepreneur.",
+    "twitter_screen_name": "mizko"
   },
   {
     "id": 39366477,
     "name": "Milton Suárez S.",
     "url": "https://www.fullstackmarketer.co",
-    "subscribers": 6000
+    "subscribers": 6000,
+    "author_name": "Milton Suarez Salazar 🤓",
+    "author_handle": "miltonsuarez",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0aab7f9-0da6-429f-bebd-64bc3cfd93ea_1080x1080.png",
+    "author_bio": "Full Stack Marketer - Growth Marketing - Marketing B2B | Speaker - Advisor | Growth Advisor | Top Teacher Platzi 2023 | +20.000 profesionales formados en LATAM",
+    "twitter_screen_name": "Miltonsuarezs"
   },
   {
     "id": 4332862,
     "name": "Irina Stanescu",
     "url": "https://www.thecaringtechie.com",
-    "subscribers": 47000
+    "subscribers": 48000,
+    "author_name": "Irina Stanescu",
+    "author_handle": "thecaringtechie",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d632ba1-7624-45cb-baed-f9ba72aff428_1284x1284.jpeg",
+    "author_bio": "Staff Software Engineer turned hands-on leader and leadership coach. Ex-Google, ex-Uber. \n\nI write a weekly newsletter for leaders and ICs about leadership, tech culture, and building a thriving career in Tech.",
+    "twitter_screen_name": "ironmissy"
   },
   {
     "id": 141132857,
     "name": "Leyla Kazim",
     "url": "https://leylakazim.substack.com",
-    "subscribers": 5000
+    "subscribers": 6000,
+    "author_name": "Leyla Kazim",
+    "author_handle": "leylakazim",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fea1e5809-cadb-4cc0-9078-fa2e64f32491_300x300.jpeg",
+    "author_bio": "Presenter and writer. You can usually find me on the TV and radio but A Day Well Spent is where I share my view on the world. "
   },
   {
     "id": 41550828,
     "name": "Dan Renyi",
     "url": "https://electricb2b.substack.com",
-    "subscribers": 5000
+    "subscribers": 5000,
+    "author_name": "Dan Renyi",
+    "author_handle": "danrenyi",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f7598ac-196f-4005-a173-bc15841cb95a_801x1200.jpeg",
+    "author_bio": null
   },
   {
     "id": 8406699,
     "name": "Claire Venus",
     "url": "https://sparkleon.substack.com",
-    "subscribers": 8000
+    "subscribers": 8000,
+    "author_name": "Claire Venus (she/her) ✨",
+    "author_handle": "clairevenus",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31c7e56d-e664-472b-873a-cd634edb9ad6_3024x4032.jpeg",
+    "author_bio": "A creative who also writes, space holder & a BIG Substack enthusiast! ✨ Top 15 in Education ✨ Powered by sustainability, slow living, big dreams & quiet ambition in the changing seasons here by the Northumberland coast. "
   },
   {
     "id": 325124,
     "name": "Ayush Jaiswal",
     "url": "https://ayushj.substack.com",
-    "subscribers": 33000
+    "subscribers": 33000,
+    "author_name": "Ayush Jaiswal",
+    "author_handle": "ayushj",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9cbcd99-8ccc-4aef-8ebe-4eb9a2a39362_1146x1146.png",
+    "author_bio": "Democratising opportunities for developers. Helping companies hire top remote talent at Pesto.tech.",
+    "twitter_screen_name": "aayushjaiswal07"
   },
   {
     "id": 30107029,
     "name": "Gergely Orosz",
     "url": "https://newsletter.pragmaticengineer.com",
-    "subscribers": 777000
+    "subscribers": 794000,
+    "author_name": "Gergely Orosz",
+    "author_handle": "pragmaticengineer",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F802a32bb-2048-428b-bdb5-d6acd1e2b2d5_48x48.png",
+    "author_bio": "Writing The Pragmatic Engineer. Previously at Uber, Skype, Microsoft. Author of The Software Engineer's Guidebook.",
+    "twitter_screen_name": "GergelyOrosz"
   },
   {
     "id": 171763198,
     "name": "Arice",
     "url": "https://aricewonderworld.substack.com",
-    "subscribers": 9000
+    "subscribers": 9000,
+    "author_name": "Arice",
+    "author_handle": "aricewonderworld",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8f283047-dedf-4fd9-a453-87c4b90182bf_320x320.jpeg",
+    "author_bio": "Hello! 🤓\n\nMy name is Arice, a millennial content creator. I share life lessons based on my experiences. Follow me for more creative content around business, career and life."
   },
   {
     "id": 168744570,
     "name": "UJU",
     "url": "https://ujuixmusic.substack.com",
-    "subscribers": 6000
+    "subscribers": 6000,
+    "author_name": "UJU",
+    "author_handle": "artomystic",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a9fc23f-1ab9-4873-bdfe-3e54ffe9256a_2000x2000.jpeg",
+    "author_bio": "From Nigeria to Budapest, I share Artomystic—a journey of personal evolution. Empowering multifaceted women to embrace their power and purpose."
   },
   {
     "id": 8794286,
     "name": "Todd Harrison",
     "url": "https://toddharrison.substack.com",
-    "subscribers": 5000
+    "subscribers": 5000,
+    "author_name": "Todd Harrison",
+    "author_handle": "toddharrison",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0ffd8a8-394e-4c68-a5da-4f2f06b2a2bb_679x544.png",
+    "author_bio": "Proud father, dog cuddler; online OG; Founding Partner / CIO @CB1Cap 🍊 🏴‍☠️ ",
+    "twitter_screen_name": "todd_harrison"
   },
   {
     "id": 135327504,
     "name": "Brillianed.Co",
     "url": "https://brillianed.substack.com",
-    "subscribers": 14000
+    "subscribers": 14000,
+    "author_name": "Brillianed.Co",
+    "author_handle": "brillianed",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66892991-97f1-439c-837e-20c1a419af7b_357x357.png",
+    "author_bio": "Empowering Your Success: Your Growth Partner in Business\n"
   },
   {
     "id": 1727295,
     "name": "Thomas Oppong",
     "url": "https://thestartupstuff.substack.com",
-    "subscribers": 11000
+    "subscribers": 11000,
+    "author_name": "Thomas Oppong",
+    "author_handle": "postanly",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c6fb486-96d9-4896-a945-40640a41e4ee_612x612.png",
+    "author_bio": "Founder | Writer | Author | Creator | Featured at Inc. Magazine, Business Insider, Forbes, Entrepreneur, Pocket, Quartz, CNBC, etc."
   },
   {
     "id": 2741562,
     "name": "Bob Gilbreath",
     "url": "https://behearty.substack.com",
-    "subscribers": 8000
+    "subscribers": 8000,
+    "author_name": "Bob Gilbreath",
+    "author_handle": "bobgilbreath",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F92d005f0-cf1c-42fa-961d-183e8fcce3e8_10216x8980.jpeg",
+    "author_bio": "I'm a repeat startup founder with two exits. Now Co-Founder/CEO of Hearty, a people-tech company. Here on Substack, I share real-life stories of my business ups-and-downs. Each story includes a short-cut to success."
   },
   {
     "id": 86533280,
     "name": "Paweł Huryn",
     "url": "https://www.productcompass.pm",
-    "subscribers": 80000
+    "subscribers": 83000,
+    "author_name": "Paweł Huryn",
+    "author_handle": "huryn",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f64f8f9-854d-4fe4-9b31-d9c4b1d2efdb_735x735.jpeg",
+    "author_bio": "Author, Product @ iDeals. Actionable tips & insights to boost your PM career. 10+ years in product, 15+ years in tech."
   },
   {
     "id": 8830354,
     "name": "Mo Seetubtim",
     "url": "https://growyourwings.substack.com",
-    "subscribers": 28000
+    "subscribers": 28000,
+    "author_name": "Mo Seetubtim",
+    "author_handle": "moseetubtim",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F08470f73-b6fb-481c-bfe3-d186b24c47ee_3072x3072.jpeg",
+    "author_bio": "Founder & CEO of The Happiness Planner l Author \n\nJoin me for insights on life, personal growth, and entrepreneurship. I’ll share my journey, life lessons, and thoughts here."
   },
   {
     "id": 28880377,
     "name": "Growth Central VC",
     "url": "https://growthcentralvc.substack.com",
-    "subscribers": 14000
+    "subscribers": 14000,
+    "author_name": "Growth Central VC",
+    "author_handle": "growthcentralvc",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F992d2a6e-db19-4814-9ab1-6daf2bc0875c_497x346.jpeg",
+    "author_bio": "We provide an analysis of everything happening in the startup and venture capital world. "
   },
   {
     "id": 15789712,
     "name": "Janelle Teng",
     "url": "https://nextbigteng.substack.com",
-    "subscribers": 7000
+    "subscribers": 7000,
+    "author_name": "Janelle Teng",
+    "author_handle": "janelleteng",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff28c5b9b-61cc-4a35-8648-ed96a778ab69_707x658.jpeg",
+    "author_bio": "VC @ Bessemer focused on AI/ML + data infrastructure; Just a Teng supporting founders building the next big thing 🚀",
+    "twitter_screen_name": "NextBigTeng"
   },
   {
     "id": 10586605,
     "name": "Colin Stuckert",
     "url": "https://betterhumans.substack.com",
-    "subscribers": 12000
+    "subscribers": 12000,
+    "author_name": "Colin Stuckert",
+    "author_handle": "betterhumans",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9c43bf03-088c-421c-8e98-42915f308941_6945x6946.jpeg",
+    "author_bio": "Better humans for a better world. We are all responsible for that.",
+    "twitter_screen_name": "SovereignColin"
   },
   {
     "id": 160088561,
     "name": "Esta Lessing CBAP®",
     "url": "https://beyondthebyte.substack.com",
-    "subscribers": 12000
+    "subscribers": 12000,
+    "author_name": "Esta",
+    "author_handle": "beyondthebyte",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc6f9f455-d254-447c-9bab-f74ff85c52b4_256x256.png",
+    "author_bio": "Author & global analyst, Esta, blends expertise with heart in 'Beyond The Byte'. This is where I share not only career advice but also trending topics I find essential for all of us to learn about to stay ahead of the curve. "
   },
   {
     "id": 9011667,
     "name": "YHamilton",
     "url": "https://yhamiltonblog.substack.com",
-    "subscribers": 11000
+    "subscribers": 11000,
+    "author_name": "YoungHamilton",
+    "author_handle": "yhamiltonblog",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fadba1d18-91b0-49d1-aba8-d72a5f6a97d6_240x240.jpeg",
+    "author_bio": "Analyzing Good Businesses"
   },
   {
     "id": 13731764,
     "name": "Patrick Collins",
     "url": "https://www.therelationshipofsales.com",
-    "subscribers": 34000
+    "subscribers": 34000,
+    "author_name": "Patrick Collins",
+    "author_handle": "therelationshipofsales",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe3405b7-e46c-4168-b7b4-c5a0e8d48e41_305x305.png",
+    "author_bio": null
   },
   {
     "id": 11919981,
     "name": "Aatir Abdul Rauf",
     "url": "https://aatir.substack.com",
-    "subscribers": 14000
+    "subscribers": 14000,
+    "author_name": "Aatir Abdul Rauf",
+    "author_handle": "aatir",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F579092e4-7169-4626-9c31-8fbd342b5973_5472x3648.jpeg",
+    "author_bio": "Aatir is the VP of Marketing at vFairs, where he leads a global team of marketers to drive demand and revenue. He regularly writes about product management and marketing tips on LinkedIn and authors the \"Behind Product Lines\" newsletter. ",
+    "twitter_screen_name": "aatirar"
   },
   {
     "id": 2607604,
     "name": "Ross Haleliuk",
     "url": "https://ventureinsecurity.net",
-    "subscribers": 15000
+    "subscribers": 15000,
+    "author_name": "Ross Haleliuk",
+    "author_handle": "ventureinsecurity",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8fa0e73b-27de-49eb-a585-393f1add9ab8_1500x1000.jpeg",
+    "author_bio": "Writing about cybersecurity trends, players, and business models, as well as product management, product-led growth, angel investing, venture capital, and other complex topics in the context of cybersecurity."
   },
   {
     "id": 16423482,
     "name": "Joe Marwood & Vince Martin",
     "url": "https://www.overlookedalpha.com",
-    "subscribers": 17000
+    "subscribers": 17000,
+    "author_name": "Overlooked Alpha",
+    "author_handle": "overlookedalpha",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa24a57f-6115-4f39-8be0-7e082715186e_1456x1048.png",
+    "author_bio": "Overlooked Alpha is written by Vince Martin and Joe Marwood. Our newsletter focusses on compelling investment ideas not usually covered by mainstream media outlets."
   },
   {
     "id": 30087465,
     "name": "Ramli John",
     "url": "https://news.marketingpowerups.com",
-    "subscribers": 6000
+    "subscribers": 6000,
+    "author_name": "Ramli John",
+    "author_handle": "ramlijohn",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F39a93b3b-fae7-4be0-a6b5-54eab3cc3dcd_1015x1020.jpeg",
+    "author_bio": null,
+    "twitter_screen_name": "RamliJohn"
   },
   {
     "id": 45698552,
     "name": "Toplyne",
     "url": "https://www.topofthelyne.co",
-    "subscribers": 20000
+    "subscribers": 20000,
+    "author_name": "Ruchin Kulkarni",
+    "author_handle": "topofthelyne",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb50de5ed-7525-45fd-9f37-aeecb9e329b5_596x596.png",
+    "author_bio": "Co-founder at Toplyne | Previously investor at Sequoia",
+    "twitter_screen_name": "Ruchin_Kulkarni"
   },
   {
     "id": 8095891,
     "name": "Rob Litterst",
     "url": "https://goodbetterbest.substack.com",
-    "subscribers": 5000
+    "subscribers": 5000,
+    "author_name": "Rob Litterst",
+    "author_handle": "robbylit",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa747102e-6316-466b-aa78-74d0e7afc036_786x920.png",
+    "author_bio": "Building PricingSaaS and writing Good Better Best.",
+    "twitter_screen_name": "robbylit"
   },
   {
     "id": 1652342,
     "name": "Ana Andjelic",
     "url": "https://andjelicaaa.substack.com",
-    "subscribers": 38000
+    "subscribers": 39000,
+    "author_name": "Ana Andjelic",
+    "author_handle": "andjelicaaa",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F16aa5877-db24-43d9-9ae3-8de4cf17a623_2048x1365.jpeg",
+    "author_bio": "Global Chief Brand Officer. Doctor of Sociology. Author of \"The Business of Aspiration.\" ",
+    "twitter_screen_name": "andjelicaaa"
   },
   {
     "id": 2259548,
     "name": "Sadie St Lawrence",
     "url": "https://sadiestlawrence.substack.com",
-    "subscribers": 17000
+    "subscribers": 17000,
+    "author_name": "Sadie St Lawrence",
+    "author_handle": "sadiestlawrence",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8cc3267e-42a0-489a-b9a3-6d342af410a0_462x530.png",
+    "author_bio": " "
   },
   {
     "id": 24979725,
     "name": "Madza",
     "url": "https://madzadev.substack.com",
-    "subscribers": 6000
-  },
-  {
-    "id": 102799415,
-    "name": "evolv by kohort",
-    "url": "https://evolvbykohort.substack.com",
-    "subscribers": 234000
+    "subscribers": 6000,
+    "author_name": "Madza",
+    "author_handle": "madzadev",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F047c5226-655c-4ce6-8503-2661eefac29b_400x400.jpeg",
+    "author_bio": "Technical writer and Frontend developer",
+    "twitter_screen_name": "madzadev"
   },
   {
     "id": 2460167,
     "name": "Joseph Kim",
     "url": "https://www.gamemakers.com",
-    "subscribers": 21000
+    "subscribers": 21000,
+    "author_name": "Joseph Kim",
+    "author_handle": "gamemakers",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2bbf5d37-2dc3-4279-a902-8ea7239e2b16_1698x960.png",
+    "author_bio": "Mobile gaming executive. Interests in mobile games, health, and kids education. All opinions my own. Follow me on Insta: https://t.co/AnJIEio0Jt",
+    "twitter_screen_name": "jokim1"
   },
   {
     "id": 153209042,
     "name": "Chrissy Powers",
     "url": "https://chrissyjpowers.substack.com",
-    "subscribers": 16000
+    "subscribers": 16000,
+    "author_name": "Chrissy Powers",
+    "author_handle": "chrissyjpowers",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd153bebb-afdd-4cd7-a19a-7eea51d422b6_3336x5008.jpeg",
+    "author_bio": "Chrissy Powers is a licensed marriage and family therapist, embodiment coach, mom, wife, and aspiring poet. She lives in San Diego, CA but works with people from all over the globe online, walking people back to wholeness. \n"
   },
   {
     "id": 8464015,
     "name": "John Rossman",
     "url": "https://thedigitalleader.substack.com",
-    "subscribers": 5000
+    "subscribers": 5000,
+    "author_name": "John Rossman",
+    "author_handle": "thedigitalleader",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca04abd4-9ee9-46ab-9b8b-6f7723ee64ed_678x688.png",
+    "author_bio": "Author -- Advisor on Leadership, Innovation and Growth.  ex-Amazon leader -- launched and scaled the Amazon marketplace.  Author- Big Bet Leadership and The Amazon Way series.  Leadership & Innovation Keynote speaker.",
+    "twitter_screen_name": "johnerossman"
   },
   {
     "id": 26116971,
     "name": "Artizen",
     "url": "https://news.artizen.fund",
-    "subscribers": 16000
-  },
-  {
-    "id": 38123,
-    "name": "Carl T. Delfeld",
-    "url": "https://powerrivals.substack.com",
-    "subscribers": 7000
+    "subscribers": 16000,
+    "author_name": "René Pinnell",
+    "author_handle": "artizenfund",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8f9bb94-0737-4deb-8256-444312750c49_1442x1442.png",
+    "author_bio": "Co-founder of Artizen, a match funding platform for breakthroughs in human creativity. 5th generation artist. Husband to beans, father to baby beans.  Best friend of Ross Ulbricht."
   },
   {
     "id": 7169808,
     "name": "Bangladesh Angels Network",
     "url": "https://bangladeshangels.substack.com",
-    "subscribers": 17000
-  },
-  {
-    "id": 7504606,
-    "name": "Peggy Van de Plassche",
-    "url": "https://peggyvandeplassche.substack.com",
-    "subscribers": 8000
+    "subscribers": 17000,
+    "author_name": "Nirjhor Rahman",
+    "author_handle": "membersatban",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5f7184ca-794f-463e-a23f-5bcd61437c41_640x640.png",
+    "author_bio": "CEO of Bangladesh Angels",
+    "twitter_screen_name": "nirjhorrahman"
   },
   {
     "id": 75328290,
     "name": "Ayesha Khan, Ph.D.",
     "url": "https://wokescientist.substack.com",
-    "subscribers": 27000
-  },
-  {
-    "id": 6063989,
-    "name": "Sarah Wilson",
-    "url": "https://sarahwilson.substack.com",
-    "subscribers": 54000
-  },
-  {
-    "id": 10391565,
-    "name": "Occasio Capital",
-    "url": "https://www.investmenttalk.co",
-    "subscribers": 25000
+    "subscribers": 28000,
+    "author_name": "Ayesha Khan, Ph.D.",
+    "author_handle": "wokescientist",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4836a15-5ca4-42a5-b29f-691f350509ec_846x846.jpeg",
+    "author_bio": "Germ Doctor, Infectious Diseases Scientist, Abolitionist Community Organizer, Artist, Anarchist & Educator Decoding the Science of Social Justice➕Collectivism ➕Neurodiversity➕Trauma & Politicizing Mental Health\n\n🔹Work with me: www.ayesha-khan.com"
   },
   {
     "id": 264373962,
     "name": "Kamela Hurley",
     "url": "https://kamelahurley.substack.com",
-    "subscribers": 13000
+    "subscribers": 13000,
+    "author_name": "Kamela Hurley",
+    "author_handle": "kamelahurley",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37d58160-6f04-4abf-bfdf-9f93e4dc8863_1080x1080.jpeg",
+    "author_bio": "Join Kamela Hurley, medium and creator of Quantum Soul Mapping™, for weekly insights on healing, intuition, and abundance. Learn to align with your purpose, attract wealth, and transform through energy healing, past lives, and spiritual growth.\n"
   },
   {
     "id": 331589,
     "name": "Michael Tatarski",
     "url": "https://vietnamweekly.substack.com",
-    "subscribers": 7000
+    "subscribers": 7000,
+    "author_name": "Michael Tatarski",
+    "author_handle": "vietnamweekly",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F34e8e8f9-b931-4f16-bccd-32b8e3000384_1279x1281.jpeg",
+    "author_bio": "Freelance journalist based in Ho Chi Minh City, Vietnam.",
+    "twitter_screen_name": "miketatarski"
   },
   {
     "id": 73188041,
     "name": "BYTECRAFT CONSULTING PRIVATE LIMITED",
     "url": "https://bytesizedbets.com",
-    "subscribers": 5000
+    "subscribers": 5000,
+    "author_name": "TheAnkurTyagi",
+    "author_handle": "theankurtyagi",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbe151623-439f-4a62-9513-f49929f5fd51_400x400.jpeg",
+    "author_bio": "A software engineer, writer, and storyteller.\n\nMy writing: https://theankurtyagi.com/blog/",
+    "twitter_screen_name": "TheAnkurTyagi"
   },
   {
     "id": 151624322,
     "name": "TodaysQ",
     "url": "https://todaysq.substack.com",
-    "subscribers": 13000
+    "subscribers": 13000,
+    "author_name": "TodaysQ",
+    "author_handle": "todaysq",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27f899d2-3a9c-44de-ad01-ce44d9b38851_2048x2048.png",
+    "author_bio": "Subscribe to my newsletter and stay ahead of the curve on the latest tech, business, and finance trends. I'll share secret tricks and strategies that will help you master generative AI like ChatGPT, BARD and prompt engineering.\n"
   },
   {
     "id": 69837296,
     "name": "Andrew Lipovsky",
     "url": "https://andrewlipovsky.substack.com",
-    "subscribers": 5000
+    "subscribers": 5000,
+    "author_name": "Andrew Lipovsky",
+    "author_handle": "andrewlipovsky",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e605af4-68f9-498a-af69-5be7eafd1faa_400x400.jpeg",
+    "author_bio": "Founder @ Highrise"
   },
   {
     "id": 6382475,
     "name": "Vitaliy Katsenelson",
     "url": "https://vitaliy.substack.com",
-    "subscribers": 92000
+    "subscribers": 92000,
+    "author_name": "Vitaliy Katsenelson",
+    "author_handle": "vitaliy",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F503a524c-9288-4848-b435-3760fed15dfb_600x478.png",
+    "author_bio": "Vitaliy N. Katsenelson, CFA - Student of Life, Value Investor, Writer, Author, CEO of IMA",
+    "twitter_screen_name": "vitaliyk"
   },
   {
     "id": 8801614,
     "name": "Rex Woodbury",
     "url": "https://www.digitalnative.tech",
-    "subscribers": 64000
+    "subscribers": 64000,
+    "author_name": "Rex Woodbury",
+    "author_handle": "digitalnative",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fce2c54bc-f259-4dee-864e-e752ec694f31_1717x2088.jpeg",
+    "author_bio": "Writer of Digital Native",
+    "twitter_screen_name": "rex_woodbury"
   },
   {
     "id": 10472167,
     "name": "Lightning Labs ⚡️",
     "url": "https://lightninglabs.substack.com",
-    "subscribers": 9000
+    "subscribers": 9000,
+    "author_name": "Lightning Labs⚡️",
+    "author_handle": "lightninglabs",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F39f24e36-20ca-4bfc-a0b5-758b3d6f9e04_48x48.png",
+    "author_bio": "Lightning scales and speeds up #bitcoin. We build lnd, lightning apps, lightning loop.⚡️  Support: @lightning_help",
+    "twitter_screen_name": "lightning"
   },
   {
     "id": 4435208,
     "name": "Christopher F. Rufo",
     "url": "https://christopherrufo.com",
-    "subscribers": 95000
+    "subscribers": 97000,
+    "author_name": "Christopher F. Rufo",
+    "author_handle": "christopherrufo",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9a204494-144f-4392-9a3c-b7d94d5b58c9_2000x2000.png",
+    "author_bio": "Writer, filmmaker, activist.",
+    "twitter_screen_name": "realchrisrufo"
   },
   {
     "id": 16359263,
     "name": "Bulwark Media",
     "url": "https://www.thebulwark.com",
-    "subscribers": 359000
+    "subscribers": 370000,
+    "author_name": "The Bulwark",
+    "author_handle": "thebulwark",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd355d4f4-7b4d-46d8-94ef-afbc2e8c7a1a_3500x3500.png",
+    "author_bio": null
   },
   {
     "id": 107549880,
     "name": "App Economy Insights LLC",
     "url": "https://www.appeconomyinsights.com",
-    "subscribers": 157000
+    "subscribers": 161000,
+    "author_name": "App Economy Insights",
+    "author_handle": "appeconomyinsights",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7065fe71-695b-4576-8ca8-ca0e20784512_175x175.png",
+    "author_bio": "• App Economy investor\n• French in Silicon Valley\n• Gaming industry veteran\n• Contributor on Seeking Alpha\n• Previously @PwC and @BandaiNamcoUS",
+    "twitter_screen_name": "EconomyApp"
   },
   {
     "id": 109512829,
     "name": "Alex Elle",
     "url": "https://alexelle.substack.com",
-    "subscribers": 86000
+    "subscribers": 86000,
+    "author_name": "Alex Elle",
+    "author_handle": "alexelle",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F04f76a34-7d75-40de-86c4-92eb991891a1_1158x1158.jpeg",
+    "author_bio": "Writer. Teacher. Joy Seeker."
   },
   {
     "id": 3093013,
     "name": "Clint Watson",
     "url": "https://artists.boldbrush.com",
-    "subscribers": 91000
+    "subscribers": 92000,
+    "author_name": "Clintavo",
+    "author_handle": "clintavo",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d5513c6-8030-4a08-9e20-53fd53b5552d_727x726.png",
+    "author_bio": "Apostle of Creation.\nFounder: http://faso.com, http://boldbrush.com.\nApps, sites & marketing for visual artists."
   },
   {
     "id": 17118252,
     "name": "Lead-Lag Publishing, LLC",
     "url": "https://leadlagreport.substack.com",
-    "subscribers": 256000
+    "subscribers": 258000,
+    "author_name": "Michael A. Gayed, CFA",
+    "author_handle": "leadlagreport",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3cbf6001-c72b-42b9-b061-9d33b6eb0013_400x400.jpeg",
+    "author_bio": "5x Dow & Founders Award Winner. Portfolio Manager. Sign up to The Lead-Lag Report on Substack for access to my daily investment research. Follow for analysis, trade ideas, and more. 👇",
+    "twitter_screen_name": "leadlagreport"
   },
   {
     "id": 43061083,
     "name": "Ashley Soderlund, Ph.D.",
     "url": "https://ashleysoderlundphd.substack.com",
-    "subscribers": 10000
+    "subscribers": 10000,
+    "author_name": "Ashley Soderlund, Ph.D.",
+    "author_handle": "ashleysoderlundphd",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2706ad3f-82b4-402b-8332-5adfbb16f7ee_480x640.jpeg",
+    "author_bio": "I am a developmental psychologist who spent over 15 years studying children's emotion regulation and stress management. I love to combine practical tips with science to make parent's lives a little easier. \n"
   },
   {
     "id": 4929022,
     "name": "Kamea Chayne",
     "url": "https://kamea.substack.com",
-    "subscribers": 5000
+    "subscribers": 5000,
+    "author_name": "green dreamer kamea",
+    "author_handle": "greendreamerkamea",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F06dc4fe0-69fd-4929-8fc6-75adf30df19c_920x920.png",
+    "author_bio": "independent writer, creative, and podcast host of Green Dreamer who has interviewed over 400 thought and community leaders ~ exploring our paths to collective healing, biocultural revitalization, and true abundance and wellness for all."
   },
   {
     "id": 4629709,
     "name": "Michael Houck",
     "url": "https://thefoundingjourney.substack.com",
-    "subscribers": 180000
+    "subscribers": 180000,
+    "author_name": "Michael Houck",
+    "author_handle": "houck",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc8a25ba9-aefa-4611-8bb3-73494b2e2db4_400x400.jpeg",
+    "author_bio": "Helping 88,000+ founders build, grow, and raise capital for their startup each week.",
+    "twitter_screen_name": "callmehouck"
   },
   {
     "id": 65305674,
     "name": "4WARD.VC GmbH",
     "url": "https://mattward.substack.com",
-    "subscribers": 11000
+    "subscribers": 11000,
+    "author_name": "Matt Ward",
+    "author_handle": "4wardvc",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf2dd61e-f4b3-496f-83eb-f905d73326ea_400x400.jpeg",
+    "author_bio": "Founder & Climate Ecosystem Builder @ 4WARD: building the largest local-to-global ecosystem of climate & sustainability DOERs in 45+ cities to collaboratively move our world forward 🌱\n\n👤 Create FREE profile today: https://4ward.vc/join"
   },
   {
     "id": 6866765,
     "name": "Tim Martinez",
     "url": "https://timtheinsideman.substack.com",
-    "subscribers": 32000
+    "subscribers": 32000,
+    "author_name": "Tim \"The Inside Man\" Martinez",
+    "author_handle": "timtheinsideman",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4f3a055-da21-48b4-9363-a211236e2ace_2399x2304.png",
+    "author_bio": "Tim Martinez, \"The Inside Man' is a veteran advisor to CEOs, founders and their executive teams. His mission is to improve every business he touches."
   },
   {
     "id": 8131622,
     "name": "The Transcript",
     "url": "https://thetranscript.substack.com",
-    "subscribers": 30000
+    "subscribers": 30000,
+    "author_name": "The Transcript",
+    "author_handle": "thetranscript",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F04ea2218-f745-4743-b322-cd89fd151a9d_450x450.png",
+    "author_bio": "We tell the story of the economy using key quotes from business leaders.",
+    "twitter_screen_name": "TheTranscript_"
   },
   {
     "id": 34922332,
     "name": "Burak Buyukdemir",
     "url": "https://startupistanbul.substack.com",
-    "subscribers": 118000
+    "subscribers": 118000,
+    "author_name": "Burak Buyukdemir",
+    "author_handle": "burakbuyukdemir",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb99ad81-2b69-4063-9e2f-762e863f4a86_285x284.png",
+    "author_bio": "I'm an entrepreneur & angel investor supporting early-stage startups. Founded Startup Istanbul & invest in successful startups worldwide. Building thriving startup ecosystems in Istanbul is my focus.",
+    "twitter_screen_name": "istanbulstartup"
   },
   {
     "id": 38830210,
     "name": "Ryan Peterman",
     "url": "https://www.developing.dev",
-    "subscribers": 81000
+    "subscribers": 83000,
+    "author_name": "Ryan Peterman",
+    "author_handle": "ryanlpeterman",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20f314b5-e648-438c-87ae-94017be476b4_400x400.jpeg",
+    "author_bio": "Staff software engineer @instagram helping close the gap for engineers without mentors. Writing about software engineering & career growth.",
+    "twitter_screen_name": "ryanlpeterman"
   },
   {
     "id": 6470945,
     "name": "Molly S. O'Shea",
     "url": "https://www.sourcery.vc",
-    "subscribers": 8000
+    "subscribers": 8000,
+    "author_name": "Molly O’Shea",
+    "author_handle": "mollysoshea",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c0e15bc-1f31-4aa9-929c-9af2016621df_1179x1306.jpeg",
+    "author_bio": "Www.sourcery.vc",
+    "twitter_screen_name": "MollySOShea"
   },
   {
     "id": 5889739,
     "name": "Decentralised.co",
     "url": "https://www.decentralised.co",
-    "subscribers": 22000
+    "subscribers": 23000,
+    "author_name": "Joel John",
+    "author_handle": "decentralisedco",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F67870f16-5d14-4c45-88a5-ae2cdf25bb8c_564x707.jpeg",
+    "author_bio": "I make charts, write long-forms and pretend to be lost in books so I can avoid talking to strangers. Used to head venture investments at a hedge fund in a past life.  Often found with a bowl of ramen in Dubai. ",
+    "twitter_screen_name": "joel_john95"
   },
   {
     "id": 12282408,
     "name": "Strange Loop Canon",
     "url": "https://www.strangeloopcanon.com",
-    "subscribers": 15000
+    "subscribers": 15000,
+    "author_name": "Rohit Krishnan",
+    "author_handle": "strangeloopcanon",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0ca74a3-6e99-42ba-88a2-00e901425dba_1024x1024.png",
+    "author_bio": "Building God at https://www.amazon.com/dp/B0CJ9F327M - buy it now! | writing at http://www.strangeloopcanon.com | language games and fuzzy processing",
+    "twitter_screen_name": "krishnanrohit"
   },
   {
     "id": 8762182,
     "name": "Scott D. Clary",
     "url": "https://newsletter.scottdclary.com",
-    "subscribers": 330000
+    "subscribers": 329000,
+    "author_name": "Scott D. Clary",
+    "author_handle": "scottdclary",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7316c961-af51-49b9-86c3-c58fe2fa971d_960x960.jpeg",
+    "author_bio": "Host of the Success Story Podcast | ➡️ https://scottdclary.komi.io/"
   },
   {
     "id": 181612478,
     "name": "Josh Belanger",
     "url": "https://joshbelanger.substack.com",
-    "subscribers": 356000
+    "subscribers": 354000,
+    "author_name": "Josh Belanger",
+    "author_handle": "joshbelanger",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9050c8dd-ce3d-4cd8-9353-a6f5580f6c11_180x180.jpeg",
+    "author_bio": "Ex-Wall St. Trader who shares good money making ideas"
   },
   {
     "id": 95719949,
     "name": "Hansei Solutions",
     "url": "https://www.rehabownerscommunity.com",
-    "subscribers": 5000
+    "subscribers": 5000,
+    "author_name": "ROC, by Hansei Solutions",
+    "author_handle": "rehabowners",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F91d1e63f-6e37-4fe4-bcb9-1034f22a1453_6912x3456.png",
+    "author_bio": "Inspired leadership makes everything possible, and as a team of innovators, we have the ability to create a culture of inspiration and accountability at every level of the organization, elevating the industry as a whole.  ",
+    "twitter_screen_name": "MShandrow"
   },
   {
     "id": 5488988,
     "name": "Jonathan Dockrell",
     "url": "https://flyingcar.sky.trade",
-    "subscribers": 15000
+    "subscribers": 16000,
+    "author_name": "Jonathan Dockrell",
+    "author_handle": "jonathandockrell",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F22c777a9-fd2f-442f-983f-8d27b83b029a_1600x1600.jpeg",
+    "author_bio": "Emergent Ventures winner. Building a marketplace for Air Rights, Drones and Real Estate. DePIN enthusiast. http://sky.trade ",
+    "twitter_screen_name": "droneevtol"
   },
   {
     "id": 141711413,
     "name": "Bonner Private Research",
     "url": "https://www.bonnerprivateresearch.com",
-    "subscribers": 68000
+    "subscribers": 69000,
+    "author_name": "Bonner Private Research",
+    "author_handle": "bonnerprivateresearch",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb53780a4-da36-4f91-b065-607edb776e94_256x256.png",
+    "author_bio": "Official Account of Bonner Private Research",
+    "twitter_screen_name": "BonnerPrivate"
   },
   {
     "id": 14301359,
     "name": "http://dailydropout.fyi/",
     "url": "https://dailydropout.substack.com",
-    "subscribers": 64000
+    "subscribers": 64000,
+    "author_name": "DailyDropout.FYI",
+    "author_handle": "unicornclub",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4c610d38-81a9-407b-bf64-02f1c5fb5a15_816x816.png",
+    "author_bio": "Exciting startups delivered right to your inbox. Get bite-sized updates about the coolest startups once a week. Sourced from across the country and followed by the worlds leading venture capitalists.\n\n",
+    "twitter_screen_name": "dailydropoutfyi"
   },
   {
     "id": 1441468,
     "name": "Melinda Wenner Moyer",
     "url": "https://melindawmoyer.substack.com",
-    "subscribers": 26000
+    "subscribers": 27000,
+    "author_name": "Melinda Wenner Moyer",
+    "author_handle": "melindawmoyer",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F20df978f-0f50-4d3f-9e17-d4e7bfbe6d97_400x400.jpeg",
+    "author_bio": "Science journalist. The New York Times, Slate and Scientific American. Author of HOW TO RAISE KIDS WHO AREN’T ASSHOLES and the upcoming HELLO CRUEL WORLD!: Science-based Strategies for Raising Terrific Kids in Terrifying Times.",
+    "twitter_screen_name": "lindy2350"
   },
   {
     "id": 13675520,
     "name": "Frederik Gieschen",
     "url": "https://alchemy.substack.com",
-    "subscribers": 34000
+    "subscribers": 34000,
+    "author_name": "Frederik Gieschen",
+    "author_handle": "frederikgieschen",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F081c28f3-24d2-4c61-a2f4-c6cd24282672_1009x905.png",
+    "author_bio": "Studying the minds and methods of outstanding investors."
   },
   {
     "id": 50731572,
     "name": "extendedsession llc",
     "url": "https://myfivethings.substack.com",
-    "subscribers": 58000
+    "subscribers": 64000,
+    "author_name": "Five Things I've Learned",
+    "author_handle": "myfivethings",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2dfa0ba2-6c72-4d1f-abdf-e5c7ac6347d2_770x707.png",
+    "author_bio": null
   },
   {
     "id": 89972075,
     "name": "Newsletter Quality Value",
     "url": "https://www.qualityvalueinvestments.com",
-    "subscribers": 8000
+    "subscribers": 8000,
+    "author_name": "Quality Value",
+    "author_handle": "qualityvalueinvestment",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadbfce36-e672-48dc-83dc-35f1fdd6fc95_600x600.png",
+    "author_bio": "Somos una newsletter de inversión con nuestra propia metodología basada en el Quality y el Value. Estamos especializados en empresas pequeñas, principalmente europeas del sector digital y tecnológico. +40 tesis y cada domingo publicamos una nueva. \n",
+    "twitter_screen_name": "Quality__Value"
   },
   {
     "id": 21855704,
     "name": "Gurner LLC",
     "url": "https://drgurner.substack.com",
-    "subscribers": 31000
+    "subscribers": 32000,
+    "author_name": "Dr. Julie Gurner",
+    "author_handle": "drgurner",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c53aa40-23e6-4180-b2dc-a61db6629da9_400x400.jpeg",
+    "author_bio": "Dr. Julie Gurner is a doctor of psychology and executive performance coach with nearly a decade of experience working with some of the nation’s top tech and finance executives and teams. Follow her on Twitter @drgurner."
   },
   {
     "id": 205727896,
     "name": "Daily Moat, LLC",
     "url": "https://stockinsider.substack.com",
-    "subscribers": 689000
+    "subscribers": 621000,
+    "author_name": "𝐉𝐚𝐜𝐤 𝐑𝐨𝐬𝐡𝐢, 𝐌𝐈𝐓 𝐏𝐡𝐃",
+    "author_handle": "jackroshi",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9b047f6a-be0f-4dfd-9f17-4a8e37e0f48b_493x493.png",
+    "author_bio": "Twice ordained Zen Master. Treasurer Mason. Separating Signal from Noise. PhD in Applied Mathematics from MIT. Ex-manager of a $6B+ AUM hedge fund. I'm bullish on Substack."
   },
   {
     "id": 8243895,
     "name": "Noah Smith",
     "url": "https://www.noahpinion.blog",
-    "subscribers": 262000
+    "subscribers": 268000,
+    "author_name": "Noah Smith",
+    "author_handle": "noahpinion",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89fd964a-586f-461a-9f5a-ea4587d45728_397x441.png",
+    "author_bio": "Econ blogger",
+    "twitter_screen_name": "Noahpinion"
   },
   {
     "id": 26630381,
     "name": "WTF is SEO?",
     "url": "https://www.seoforjournalism.com",
-    "subscribers": 12000
+    "subscribers": 12000,
+    "author_name": "WTF is SEO?",
+    "author_handle": "wtfseo",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7d9faf9d-4bd3-4e2b-aa94-4fb6051c0c18_845x822.png",
+    "author_bio": "Two audience and SEO editors (Jessie Willms and Shelby Blackley) sharing advice, interviews and more on using search for news and publishers.",
+    "twitter_screen_name": "wtf_is_seo"
   },
   {
     "id": 8890145,
     "name": "Andre Retterath",
     "url": "https://www.newsletter.datadrivenvc.io",
-    "subscribers": 28000
+    "subscribers": 29000,
+    "author_name": "Andre Retterath",
+    "author_handle": "datadrivenvc",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F96832661-7a5a-45f9-8c9a-01b870e67406_1500x1001.jpeg",
+    "author_bio": "Partner at Earlybird VC & Author of Data-Driven VC, nerding about AI, data, productivity "
   },
   {
     "id": 21731691,
     "name": "Michael Spencer",
     "url": "https://www.ai-supremacy.com",
-    "subscribers": 94000
+    "subscribers": 96000,
+    "author_name": "Michael Spencer",
+    "author_handle": "aisupremacy",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F75d1bf99-dcf3-4af6-be2a-416c08c954a1_450x450.jpeg",
+    "author_bio": "Michael is an amateur futurist with 210,000 LinkedIn followers and a 2-time LinkedIn Top Voice. Obsessed with future topics such as A.I, robotics, quantum computing, startups, investing, venture capital, business and technology trends. ",
+    "twitter_screen_name": "AISupremacyNews"
   },
   {
     "id": 10836414,
     "name": "John Canzano",
     "url": "https://www.johncanzano.com",
-    "subscribers": 40000
+    "subscribers": 40000,
+    "author_name": "John Canzano",
+    "author_handle": "johncanzano",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9bd0eb13-2b0a-4c86-8f87-b9789d692f9b_836x840.jpeg",
+    "author_bio": null,
+    "twitter_screen_name": "johncanzanobft"
   },
   {
     "id": 18804213,
     "name": "Chris Bray",
     "url": "https://chrisbray.substack.com",
-    "subscribers": 12000
+    "subscribers": 13000,
+    "author_name": "Chris Bray",
+    "author_handle": "chrisbray",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8fd0351-4c66-456e-8da2-2cf5d02e67ea_144x144.png",
+    "author_bio": "Journalist, historian, former soldier, whiskey enthusiast."
   },
   {
     "id": 45646640,
     "name": "VitalyTennant.com",
     "url": "https://wherewithal.substack.com",
-    "subscribers": 10000
+    "subscribers": 10000,
+    "author_name": "VitalyTennant.com",
+    "author_handle": "vitaly",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f3acad1-325d-4265-8521-583ade4cdcb4_3264x3264.png",
+    "author_bio": "Informative business website, with a hint of entrepreneurship.",
+    "twitter_screen_name": "VitalyVTennant"
   },
   {
     "id": 19791492,
     "name": "FourWeekMBA",
     "url": "https://businessengineer.ai",
-    "subscribers": 124000
+    "subscribers": 124000,
+    "author_name": "FourWeekMBA",
+    "author_handle": "fwmba",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb0c29637-81a0-473a-accb-e8636c71fc75_1070x787.png",
+    "author_bio": "The Leading Source Of Insights On Business Model Innovation. "
   },
   {
     "id": 626319,
     "name": "Robert Reich",
     "url": "https://robertreich.substack.com",
-    "subscribers": 427000
-  },
-  {
-    "id": 1966060,
-    "name": "The New Statesman",
-    "url": "https://morningcall.substack.com",
-    "subscribers": 54000
-  },
-  {
-    "id": 50879678,
-    "name": "Peta Kelly",
-    "url": "https://www.likehoneycomb.com",
-    "subscribers": 8000
-  },
-  {
-    "id": 33982809,
-    "name": "BowTiedOx",
-    "url": "https://www.bowtiedox.io",
-    "subscribers": 70000
+    "subscribers": 434000,
+    "author_name": "Robert Reich",
+    "author_handle": "robertreich",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5582b81e-dbe9-404f-8754-98d335acb326_1572x1162.png",
+    "author_bio": "Professor, writer, former Secretary of Labor, author of The System, The Common Good, Saving Capitalism, Aftershock, Supercapitalism, The Work of Nations. Co-creator of \"Inequality for All\" and \"Saving Capitalism.\" Co-founder of Inequality Media",
+    "twitter_screen_name": "RBReich"
   },
   {
     "id": 14578962,
     "name": "junkbondinvestor",
     "url": "https://www.junkbondinvestor.com",
-    "subscribers": 8000
+    "subscribers": 8000,
+    "author_name": "junkbondinvestor",
+    "author_handle": "junkbondinvestor",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9673212-637f-469b-9b14-94174535b917_240x240.jpeg",
+    "author_bio": "buyside l/s credit analyst. Focus on high yield bonds, leveraged loans, distressed debt, special situations equities",
+    "twitter_screen_name": "junkbondinvest"
   },
   {
     "id": 6449457,
     "name": "Derek Beres",
     "url": "https://derekberes.substack.com",
-    "subscribers": 12000
+    "subscribers": 12000,
+    "author_name": "Derek Beres",
+    "author_handle": "derekberes",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F43146453-0f36-423f-b300-57d66100fb7a_2316x3088.jpeg",
+    "author_bio": "Derek Beres is a multi-faceted author, speaker, and media expert based in Portland, Oregon. He regularly speaks on science and media literacy. Derek is the co-host of the Conspirituality podcast.",
+    "twitter_screen_name": "derekberes"
   },
   {
     "id": 135475625,
     "name": "Daniel Kelley",
     "url": "https://cybersecurityandgrowth.substack.com",
-    "subscribers": 11000
+    "subscribers": 11000,
+    "author_name": "Daniel Kelley",
+    "author_handle": "danielmakelley",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F15335325-c065-44c5-b63e-ac6204860ca7_800x800.jpeg",
+    "author_bio": "Reformed Black Hat Computer Hacker • Contributed To 100+ Bug Bounty Programs⚡100K+ Audience",
+    "twitter_screen_name": "danielmakelley"
   },
   {
     "id": 5982645,
     "name": "Deb Liu",
     "url": "https://debliu.substack.com",
-    "subscribers": 39000
+    "subscribers": 40000,
+    "author_name": "Deb Liu",
+    "author_handle": "debliu",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd245653-a4f1-4668-afef-598aff4d1954_4898x3265.jpeg",
+    "author_bio": "Silicon Valley executive mom of three"
   },
   {
     "id": 14409315,
     "name": "Nikki Novo",
     "url": "https://nikkinovo1.substack.com",
-    "subscribers": 10000
+    "subscribers": 10000,
+    "author_name": "Nikki Novo",
+    "author_handle": "nikkinovo",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4cadc40b-b2f0-43f2-985d-d6fd399107db_1080x1080.png",
+    "author_bio": "I'm here to read and write. "
   },
   {
     "id": 112950120,
     "name": "Sarah Fay",
     "url": "https://www.writersatwork.net",
-    "subscribers": 21000
+    "subscribers": 22000,
+    "author_name": "Sarah Fay",
+    "author_handle": "sarahfaywritersatwork",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F379f1c26-ac5b-40d4-8a9c-6285241b780a_3025x3521.jpeg",
+    "author_bio": "Substack Growth Strategist | Bestselling creator of Substack Writers@Work | Author @ HarperCollins | Faculty @ Northwestern University | Lover of all things cats and Substack"
   },
   {
     "id": 18933142,
     "name": "William M Briggs",
     "url": "https://wmbriggs.substack.com",
-    "subscribers": 5000
+    "subscribers": 5000,
+    "author_name": "William M Briggs",
+    "author_handle": "wmbriggs",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd82417f3-9fdf-4c0e-b063-4b22d5e5e0c5_1641x1662.jpeg",
+    "author_bio": "William M. Briggs was born in Detroit at the height of its majesty. When he left, it went into the crapper. Coincidence? ",
+    "twitter_screen_name": "FamedCelebrity"
   },
   {
     "id": 547180,
     "name": "Ankler Media",
     "url": "https://theankler.com",
-    "subscribers": 85000
+    "subscribers": 87000,
+    "author_name": "Richard Rushfield",
+    "author_handle": "theankler",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe10cfe69-bf88-47c3-a70f-989f8041d154_2000x2140.png",
+    "author_bio": "Editorial Director and Chief Columnist of The Ankler",
+    "twitter_screen_name": "richardrushfield"
   },
   {
     "id": 1811177,
     "name": null,
     "url": "https://charlotteledger.substack.com",
-    "subscribers": 24000
+    "subscribers": 24000,
+    "author_name": "Tony Mecia",
+    "author_handle": "charlotteledger",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2e0d52ae-d54d-499b-9fd8-8b3c8607d527_1448x1523.jpeg",
+    "author_bio": "Executive editor of The Charlotte Ledger. Previously: business reporter/editor with the Charlotte Observer. In Charlotte since '97.",
+    "twitter_screen_name": "CltLedger"
   },
   {
     "id": 1085066,
     "name": "Curbivore",
     "url": "https://www.thecurbivore.com",
-    "subscribers": 9000
+    "subscribers": 10000,
+    "author_name": "Jonah Bliss",
+    "author_handle": "jonahbliss",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F902597f6-996f-4d71-9874-cfc5052b1118_1000x1000.png",
+    "author_bio": null,
+    "twitter_screen_name": "CurbivoreNews"
   },
   {
     "id": 1923753,
     "name": "Eric Topol",
     "url": "https://erictopol.substack.com",
-    "subscribers": 122000
+    "subscribers": 124000,
+    "author_name": "Eric Topol",
+    "author_handle": "erictopol",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6aac3e1d-17aa-405e-953b-393d7253107b_511x511.png",
+    "author_bio": "physician-scientist, author, editor",
+    "twitter_screen_name": "EricTopol"
   },
   {
     "id": 41858439,
     "name": "Lusso's News, LLC",
     "url": "https://powerhouse.substack.com",
-    "subscribers": 110000
-  },
-  {
-    "id": 464622,
-    "name": "Matthew C. Klein",
-    "url": "https://theovershoot.co",
-    "subscribers": 40000
+    "subscribers": 110000,
+    "author_name": "Sir Chartist",
+    "author_handle": "stockmarket",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F32c64fb1-fd4b-43f0-8fa9-d35c39b76696_400x400.jpeg",
+    "author_bio": "Wall Street Prodigy: Years of financial market mastery at your fingertips. Trading virtuoso in futures and equities, seeking maximum returns on every investment. Proudly officed in the heart of Wall Street. Witnessed it all, conquered it all. ",
+    "twitter_screen_name": "ChartBreakouts"
   },
   {
     "id": 3124137,
     "name": "Zakti Techmedia Private Limited",
-    "url": "https://www.mastersofai.app",
-    "subscribers": 24000
+    "url": "https://www.sinha.app",
+    "subscribers": 24000,
+    "author_name": "Ashish Sinha",
+    "author_handle": "cnha",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fadbf1029-e244-4b67-ba71-282c8f6d18db_960x960.jpeg",
+    "author_bio": "By Ashish Sinha.",
+    "twitter_screen_name": "nextbigwhat"
   },
   {
     "id": 23779557,
     "name": "Caleb Franzen",
     "url": "https://cubicanalytics.substack.com",
-    "subscribers": 10000
-  },
-  {
-    "id": 123845415,
-    "name": "Capital Flows",
-    "url": "https://www.capitalflowsresearch.com",
-    "subscribers": 11000
+    "subscribers": 10000,
+    "author_name": "Caleb Franzen",
+    "author_handle": "cubicanalytics",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F98250f5e-0b96-45be-b01e-568686834a02_4096x4096.jpeg",
+    "author_bio": "Market Strategist at Cubic Analytics, analyzing key data/charts on the economy, the stock market, and Bitcoin to make investment decisions.\n\nFormer corporate banking & portfolio analyst.",
+    "twitter_screen_name": "CalebFranzen"
   },
   {
     "id": 6052627,
     "name": "Peter Yang",
     "url": "https://creatoreconomy.so",
-    "subscribers": 96000
+    "subscribers": 98000,
+    "author_name": "Peter Yang",
+    "author_handle": "petergyang",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2dbd75e-1c5a-48ab-94ef-b24caea63cdf_1024x1024.png",
+    "author_bio": "I share tips and humor on how to level up your product skills and grow a creator business | Join 50k+ at read.creatoreconomy.so | Product at Roblox",
+    "twitter_screen_name": "petergyang"
   },
   {
     "id": 58361290,
     "name": "Christian Ray Flores",
     "url": "https://www.christianrayflores.com",
-    "subscribers": 20000
+    "subscribers": 21000,
+    "author_name": "Christian Ray Flores",
+    "author_handle": "christianrayflores",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb849ebf7-019c-4625-a8e3-219854c0cb1d_958x956.jpeg",
+    "author_bio": "Entrepreneur, Evangelist, Philanthropist, Coach, writing about the art of Xponential Living. \n",
+    "twitter_screen_name": "ChristianRay"
   },
   {
     "id": 36215725,
     "name": "Baller Golf",
     "url": "https://www.ballergolf.co",
-    "subscribers": 98000
+    "subscribers": 98000,
+    "author_name": "David Skilling",
+    "author_handle": "mrdavidskilling",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d341ff1-8352-4c3d-baa3-47bc0249a542_816x816.jpeg",
+    "author_bio": "CEO of Freedom Sport - Representing athletes in Fashion: offices in London, LA & Miami. I'm also a hobby golfer and author of sport-related newsletters - covering football, soccer, golf, basketball, Formula 1, Boxing, and sports fashion."
   },
   {
     "id": 136960987,
     "name": "Todd Baratz",
     "url": "https://toddbaratz.substack.com",
-    "subscribers": 12000
+    "subscribers": 12000,
+    "author_name": "Todd Baratz",
+    "author_handle": "toddbaratz",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F492c3403-3a2a-409c-9bb5-be7c9791ef57_1400x1400.jpeg",
+    "author_bio": "I’m a certified sex therapist, licensed individual and couples psychotherapist, and writer who specializes in relationships and sex.  \n\nI help people improve their relationships and have better sex.",
+    "twitter_screen_name": "toddbaratz"
   },
   {
     "id": 8247620,
     "name": "Rachel Karten",
     "url": "https://www.milkkarten.net",
-    "subscribers": 73000
+    "subscribers": 76000,
+    "author_name": "Rachel Karten",
+    "author_handle": "rachelkarten",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30fa2bd5-b556-4e66-b6f0-26c1004aedb0_746x686.png",
+    "author_bio": "I’m Rachel Karten and I’m a social media consultant helping brands build social strategies that delight.",
+    "twitter_screen_name": "milkkarten"
   },
   {
     "id": 200330227,
     "name": "Latitud",
     "url": "https://latitudlatam.substack.com",
-    "subscribers": 15000
+    "subscribers": 15000,
+    "author_name": "Latitud",
+    "author_handle": "latitudlatam",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40d1b3d7-cba4-4a3e-9b4d-017db65badf5_1001x1000.png",
+    "author_bio": "The operating system for LatAm founders building good sh*t."
   },
   {
     "id": 114529177,
     "name": "OnlyCFO",
     "url": "https://www.onlycfo.io",
-    "subscribers": 25000
+    "subscribers": 26000,
+    "author_name": "OnlyCFO",
+    "author_handle": "onlycfo",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85f91b83-2953-4631-9406-3534fba36bd4_546x442.jpeg",
+    "author_bio": "Finance, SaaS, and startups",
+    "twitter_screen_name": "OnlyCFO"
   },
   {
     "id": 17864025,
     "name": "Revenue Snacks",
     "url": "https://revenuesnacks.substack.com",
-    "subscribers": 84000
+    "subscribers": 94000,
+    "author_name": "Fredrik & Team",
+    "author_handle": "team",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c4838db-b026-46fb-9ae4-7427503147c7_1024x1024.jpeg",
+    "author_bio": "20 yrs in Product Management. Specialist in Organic Growth and Web Monetization. Ex-Google and ex-Ironman Triathlete (I know, who does that?)."
   },
   {
     "id": 124064477,
     "name": "The Simple Side",
     "url": "https://thesimpleside.substack.com",
-    "subscribers": 278000
+    "subscribers": 291000,
+    "author_name": "The Simple Side",
+    "author_handle": "thesimpleside",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc02b121-fd25-44cb-beeb-7057bf4e956f_1024x1024.png",
+    "author_bio": "I don't know who won last night's sports game. Hell, I don't know where the remote for the TV is in my house, but I know one thing: markets."
   },
   {
     "id": 7161348,
     "name": "Olyasha Novozhylova",
     "url": "https://notbasicblonde.substack.com",
-    "subscribers": 101000
+    "subscribers": 101000,
+    "author_name": "Olyasha Novozhylova",
+    "author_handle": "notbasicblonde",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcfbb7630-b16f-41e6-be8a-a33947973aa7_2193x2757.jpeg",
+    "author_bio": "Olyasha Novozhylova is the CEO and Founder of NotBasicBlonde brand, Model, Blogger, Entrepreneur, Author, AmazonLive Fashion Host, Fashion Editor, and Celebrity Podcast Host of NotBasicBlonde Podcast."
   },
   {
     "id": 75030303,
     "name": "Jeff Miller",
     "url": "https://heartopage.substack.com",
-    "subscribers": 21000
+    "subscribers": 20000,
+    "author_name": "Jeff Miller",
+    "author_handle": "jeffmiller1",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F15de2f66-c918-481f-8bb2-c7e43f7345d3_3648x5472.jpeg",
+    "author_bio": "I am a Christian writer and writing coach, and I pastor Godspeed Church in Normal, IL. "
   },
   {
     "id": 28156123,
     "name": "ADPList Pte. Ltd.",
     "url": "https://adplist.substack.com",
-    "subscribers": 210000
+    "subscribers": 210000,
+    "author_name": "Felix Lee",
+    "author_handle": "felixleezde",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F189a8ab5-0a18-4207-8df8-73f326ec56d4_1639x1639.jpeg",
+    "author_bio": "Co-Founder and CEO, ADPList. Designer & Investor. Scaled products to 60m+ users. Write on growth through design and community.",
+    "twitter_screen_name": "ADPList"
   },
   {
     "id": 14381245,
     "name": "Jon Brooks",
     "url": "https://jonbrooks.substack.com",
-    "subscribers": 28000
+    "subscribers": 28000,
+    "author_name": "Jon Brooks",
+    "author_handle": "jonbrooks",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F21669d6d-f1ff-4d21-83d4-89393cbb3f43_960x720.jpeg",
+    "author_bio": "Jon Brooks is a reformed investment banker, turned mega agent, residential real estate investor, national speaker & coach, and co-founder of Momentum.",
+    "twitter_screen_name": "jonbrooksgroup"
   },
   {
     "id": 65522710,
     "name": "Simon Rosenberg",
     "url": "https://www.hopiumchronicles.com",
-    "subscribers": 105000
+    "subscribers": 113000,
+    "author_name": "Simon Rosenberg",
+    "author_handle": "simonwdc",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F17baca00-86c7-4610-9714-b91766554509_400x400.jpeg",
+    "author_bio": "Veteran Political Analyst, Strategist and Commentator. 2 Presidential campaigns (incl Clinton War Room), senior roles at DNC, DCCC, NDN. One of the only ones who got 2022 right. On Substack at Hopium Chronciles. ",
+    "twitter_screen_name": "SimonWDC"
   },
   {
     "id": 21711732,
     "name": "Mostly LLC",
     "url": "https://www.mostlymetrics.com",
-    "subscribers": 54000
+    "subscribers": 54000,
+    "author_name": "CJ Gustafson",
+    "author_handle": "cjgustafson",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F269d10f8-6358-4cee-b68e-989ff5389de2_1080x1080.jpeg",
+    "author_bio": "Tech CFO | Writer behind Mostly metrics | Miller Lite Enthusiast ",
+    "twitter_screen_name": "cjgustafson222"
   },
   {
     "id": 2728693,
     "name": "Daniel Pinchbeck",
     "url": "https://danielpinchbeck.substack.com",
-    "subscribers": 18000
+    "subscribers": 18000,
+    "author_name": "Daniel Pinchbeck",
+    "author_handle": "danielpinchbeck",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcce9dbcc-f0a1-41a1-a0d0-df4ff46c48ab_1918x2560.jpeg",
+    "author_bio": "Author of Breaking Open the Head, 2012: The Return of Quetzalcoatl, How Soon Is Now, and When Plants Dream. Online seminars, Ebooks, and audiobooks found at www.liminal.news . ",
+    "twitter_screen_name": "DanielPinchbeck"
   },
   {
     "id": 52351,
     "name": "Alex Kantrowitz",
     "url": "https://www.bigtechnology.com",
-    "subscribers": 148000
+    "subscribers": 149000,
+    "author_name": "Alex Kantrowitz",
+    "author_handle": "bigtechnology",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1701d416-0305-4ff1-b7be-81ee117acda3_800x800.jpeg",
+    "author_bio": "I write Big Technology, a newsletter about Big Tech and society.",
+    "twitter_screen_name": "Kantrowitz"
   },
   {
     "id": 18594059,
     "name": "Loren Feldman",
     "url": "https://21hats.substack.com",
-    "subscribers": 6000
+    "subscribers": 6000,
+    "author_name": "Loren Feldman",
+    "author_handle": "21hats",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F72279188-a19a-414d-9a6d-41c90d711cf3_1365x455.jpeg",
+    "author_bio": "For 20 years, I've been covering entrepreneurs for Inc., Forbes, and The New York Times. Now I'm building the 21 Hats community for business owners.",
+    "twitter_screen_name": "21_Hats"
   },
   {
     "id": 162812537,
     "name": "FINsider",
     "url": "https://finsiderbyhighradius.substack.com",
-    "subscribers": 52000
+    "subscribers": 53000,
+    "author_name": "FINsider",
+    "author_handle": "finsiderbyhighradius",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F14b74a46-eb7c-40dc-841c-5bb747bb2c4e_256x256.png",
+    "author_bio": "Delivering the hottest, latest, sharpest accounts receivable management insights to build world-class O2C leaders!"
   },
   {
     "id": 9507128,
     "name": "Neil Perry Gordon",
     "url": "https://neilperrygordon.substack.com",
-    "subscribers": 5000
+    "subscribers": 5000,
+    "author_name": "Neil Perry Gordon",
+    "author_handle": "neilperrygordon",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff075e834-db6c-4e6d-87d5-002e16ed9f04_4032x3024.jpeg",
+    "author_bio": "To learn more about Neil Perry Gordon, please visit his website: www.NeilPerryGordon.com\nhttps://linktr.ee/neilperrygordon",
+    "twitter_screen_name": "NeilPerryGordon"
   },
   {
     "id": 136226261,
     "name": "ToffCap",
     "url": "https://toffcap.substack.com",
-    "subscribers": 6000
+    "subscribers": 6000,
+    "author_name": "ToffCap",
+    "author_handle": "toffcap",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F59ed951a-aed7-420d-ac69-771112f7cb9a_400x400.jpeg",
+    "author_bio": "Financial markets aficionados. We like to write about finance, markets and great / funny / ugly companies. Tag along for research on companies and event-driven ideas."
   },
   {
     "id": 32102170,
     "name": "Antonio Linares",
     "url": "https://www.investmentideas.io",
-    "subscribers": 9000
+    "subscribers": 10000,
+    "author_name": "Antonio Linares",
+    "author_handle": "antonio",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F350a7160-edc2-46ab-b2b3-a602d2fec65a_400x400.jpeg",
+    "author_bio": "Investor & Technologist ",
+    "twitter_screen_name": "alc2022"
   },
   {
     "id": 113271645,
     "name": "GTM Partners",
     "url": "https://gtmonday.substack.com",
-    "subscribers": 121000
+    "subscribers": 133000,
+    "author_name": "GTMonday from GTM Partners",
+    "author_handle": "gtmonday",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F28493d40-e30f-48b7-9274-42dcdbcc36ce_1094x1095.png",
+    "author_bio": "every Monday, we will publish a new GTM trend, ROI study, tech stack or quote that will get you instantly "
   },
   {
     "id": 323486,
     "name": "Eric Newcomer",
     "url": "https://www.newcomer.co",
-    "subscribers": 101000
+    "subscribers": 102000,
+    "author_name": "Eric Newcomer",
+    "author_handle": "newcomer",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc5f6a439-1bd2-4185-b0b5-d2ca9d1dc72b_400x400.jpeg",
+    "author_bio": "I write the newsletter Newcomer. \n\nI spent six years at Bloomberg reporting on the technology industry. Before that I was the first employee at The Information.",
+    "twitter_screen_name": "EricNewcomer"
   },
   {
     "id": 43851,
     "name": "Game Discovery Now LLC",
     "url": "https://newsletter.gamediscover.co",
-    "subscribers": 30000
+    "subscribers": 31000,
+    "author_name": "Simon Carless",
+    "author_handle": "simoncarless",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3dd8d392-42ea-4bd5-911f-5930ded5da8d_960x960.jpeg",
+    "author_bio": "I'm the founder of GameDiscoverCo, and a former game dev, Independent Games Festival chairperson & Game Developers Conference co-runner."
   },
   {
     "id": 142906827,
     "name": "Robert Glazer & Kendall Marketing Group, LLC ",
     "url": "https://robertglazer.substack.com",
-    "subscribers": 114000
-  },
-  {
-    "id": 114501518,
-    "name": "Gustavo Razzetti",
-    "url": "https://gustavorazzetti.substack.com",
-    "subscribers": 36000
+    "subscribers": 114000,
+    "author_name": "Robert Glazer",
+    "author_handle": "robertglazer",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a28cf2e-eef3-4dee-8247-816cf7d0c8ec_4320x2880.jpeg",
+    "author_bio": "I'm a serial entrepreneur, Wall Street Journal Bestselling author of six books, and host of the Elevate Podcast. Join my Friday Forward newsletter, a weekly inspirational newsletter that's read by over 200,000 leaders in over 60 countries each week."
   },
   {
     "id": 4569696,
     "name": "Joseph Politano",
     "url": "https://www.apricitas.io",
-    "subscribers": 45000
+    "subscribers": 46000,
+    "author_name": "Joseph Politano",
+    "author_handle": "josephpolitano",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1e62a07a-be12-45d1-aea4-44d1c470bd3e_3000x3000.png",
+    "author_bio": "I write about monetary policy, labor markets, business, finance, and everything else that falls under macroeconomics. Subscribe to Apricitas and get data-driven economic insights delivered to your inbox every Saturday!",
+    "twitter_screen_name": "JosephPolitano"
   },
   {
     "id": 319691,
     "name": "Neelendra Nath",
     "url": "https://percolator.substack.com",
-    "subscribers": 9000
+    "subscribers": 9000,
+    "author_name": "The Percolator",
+    "author_handle": "thepercolator",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3ebf519f-3733-4075-b991-3733fe9bc7eb_512x512.png",
+    "author_bio": "Bean Collectors, Roasters, Brewers & Baristas",
+    "twitter_screen_name": "percolatorHQ"
   },
   {
     "id": 123225933,
     "name": "Department of Product",
     "url": "https://departmentofproduct.substack.com",
-    "subscribers": 46000
+    "subscribers": 46000,
+    "author_name": "Rich Holmes",
+    "author_handle": "richholmes",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb59b615c-e268-44f2-a0c5-ef2f2c6a90e0_238x238.png",
+    "author_bio": "Writing the Department of Product for 45,000+ readers. Ex-product in SaaS, banking / fintech startups. "
   },
   {
     "id": 6514715,
     "name": "Coin Metrics",
     "url": "https://coinmetrics.substack.com",
-    "subscribers": 24000
+    "subscribers": 24000,
+    "author_name": "Katie Chase",
+    "author_handle": "katiechase767089",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5fdefdf8-9ec9-4964-9f42-6b5837f9fb4e_144x144.png",
+    "author_bio": "Crypto intelligence @Coin Metrics"
   },
   {
     "id": 223396584,
     "name": "Te Maataamua o Aotearoa",
     "url": "https://thepatakainstitute.substack.com",
-    "subscribers": 5000
+    "subscribers": 5000,
+    "author_name": "Community Health NZ",
+    "author_handle": "communityhealthnz",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F04abc734-63ad-4f19-b5a0-e53cd05402f8_95x95.png",
+    "author_bio": "Community Health NZ is a collective of people and organizations committed to raising the standard of living of all New Zealanders through better access to World-class Education for our Health and Wellbeing."
   },
   {
     "id": 27655928,
     "name": "Moneymint",
     "url": "https://moneymint.org",
-    "subscribers": 25000
+    "subscribers": 26000,
+    "author_name": "Aditya Farrad",
+    "author_handle": "adityafarrad",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9759c277-f5d0-41a7-b057-6babb0db9feb_1250x1250.png",
+    "author_bio": "Aditya is a seasoned business expert and the founder of Moneymint. He became a self-made millionaire at a young age thanks to his various online businesses. "
   },
   {
     "id": 69984721,
     "name": "PostHog",
     "url": "https://newsletter.posthog.com",
-    "subscribers": 20000
+    "subscribers": 23000,
+    "author_name": "PostHog",
+    "author_handle": "productforengineers",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F310c0899-3074-48e4-a9d9-f7ff8f5290f4_371x371.png",
+    "author_bio": "The team behind PostHog and the Product for Engineers newsletter"
   },
   {
     "id": 9653721,
     "name": "The Generalist LLC",
     "url": "https://thegeneralist.substack.com",
-    "subscribers": 122000
+    "subscribers": 125000,
+    "author_name": "Mario Gabriele",
+    "author_handle": "generalist",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe5007322-b272-4faa-9489-8f159a07e65a_1205x1297.jpeg",
+    "author_bio": "Founder of The Generalist",
+    "twitter_screen_name": "mariogabriele"
   },
   {
     "id": 49467033,
     "name": "JJ Tax",
     "url": "https://jjfintax.substack.com",
-    "subscribers": 42000
-  },
-  {
-    "id": 79088393,
-    "name": "Dr. Matthew Wielicki",
-    "url": "https://irrationalfear.substack.com",
-    "subscribers": 5000
+    "subscribers": 42000,
+    "author_name": "Jia",
+    "author_handle": "jjfintax",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6329a3bb-b762-41c8-8b41-cc42b45439c9_1023x1023.jpeg",
+    "author_bio": null,
+    "twitter_screen_name": "JJTaxApp"
   },
   {
     "id": 3058637,
     "name": "Shane Thomas",
     "url": "https://www.upstream.ag",
-    "subscribers": 18000
-  },
-  {
-    "id": 313069,
-    "name": "Amaete Umanah",
-    "url": "https://amaete.substack.com",
-    "subscribers": 13000
-  },
-  {
-    "id": 42992401,
-    "name": "Outcue Media Pvt. Ltd",
-    "url": "https://daily.thesignal.co",
-    "subscribers": 73000
-  },
-  {
-    "id": 5437998,
-    "name": "Nakul Gupta",
-    "url": "https://www.cryptechie.com",
-    "subscribers": 23000
+    "subscribers": 18000,
+    "author_name": "Shane Thomas",
+    "author_handle": "upstreamaginsights",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F837c4609-ccc7-4e54-9836-0ccd791e192e_664x998.jpeg",
+    "author_bio": "Insatiably Curious about Agribusiness",
+    "twitter_screen_name": "ShaneAgronomy"
   },
   {
     "id": 25346410,
     "name": "Rachel Donald",
     "url": "https://www.planetcritical.com",
-    "subscribers": 15000
+    "subscribers": 16000,
+    "author_name": "Rachel Donald",
+    "author_handle": "racheldonald",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa44c241a-07b9-489f-9a8f-10b295640657_650x650.jpeg",
+    "author_bio": "Climate corruption journalist investigating why the world in crisis—and what to do about it."
   },
   {
     "id": 85682005,
     "name": "Gary Thomas",
     "url": "https://garythomasbooks.substack.com",
-    "subscribers": 21000
+    "subscribers": 21000,
+    "author_name": "Gary Thomas",
+    "author_handle": "garythomasbooks",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9b91b5b7-454a-46e7-81d8-5662ff4556b6_500x500.png",
+    "author_bio": "Gary Thomas’ writing and speaking focuses on bringing people closer to Christ and closer to others.   ",
+    "twitter_screen_name": "garyLthomas"
   },
   {
     "id": 154908957,
     "name": "Sem Bobaginha",
     "url": "https://sembobaginha.substack.com",
-    "subscribers": 21000
+    "subscribers": 21000,
+    "author_name": "Nick Moretti",
+    "author_handle": "sembobaginha",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F811cfd61-32cf-41bb-824d-63fdfe8cd9b5_1490x1490.jpeg",
+    "author_bio": "A newsletter que sai do óbvio"
   },
   {
     "id": 112300093,
     "name": "CareerBuddy",
     "url": "https://workshiftbycareerbuddy.substack.com",
-    "subscribers": 17000
+    "subscribers": 16000,
+    "author_name": "CareerBuddy",
+    "author_handle": "careerbuddyhq",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F59efc993-2ebb-4451-8310-33da5c411704_202x202.png",
+    "author_bio": "The first choice platform  for professionals looking for new opportunties and grow in their current jobs and companies looking to hire great talents in Africa. "
   },
   {
     "id": 86627003,
     "name": "Men’s Psychology",
     "url": "https://menspsychology.substack.com",
-    "subscribers": 18000
+    "subscribers": 18000,
+    "author_name": "Dr. Paul",
+    "author_handle": "drpauldobransky",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fea927793-509f-4232-b990-e8f4b300f2ca_200x212.jpeg",
+    "author_bio": "I’m a psychiatrist and founder of Romantipedia, a compendium of knowledge on human courtship model Romantic Dynamics, and Publisher of Men’s Psychology Magazine, a source for information and insight in the new emerging field of Men’s Psychology. ",
+    "twitter_screen_name": "DailyMensNews"
   },
   {
     "id": 106098672,
     "name": "Gregor Ojstersek",
     "url": "https://newsletter.eng-leadership.com",
-    "subscribers": 78000
+    "subscribers": 81000,
+    "author_name": "Gregor Ojstersek",
+    "author_handle": "gregorojstersek",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b7fdc30-d8c4-45f2-b0df-0b60baf9d4f4_1000x1000.jpeg",
+    "author_bio": "CTO | Author of Engineering Leadership newsletter - Helping you become a great engineering leader!",
+    "twitter_screen_name": "gregorojstersek"
   },
   {
     "id": 42660574,
     "name": "Genuine Impact",
     "url": "https://genuineimpact.substack.com",
-    "subscribers": 35000
+    "subscribers": 35000,
+    "author_name": "Genuine Impact",
+    "author_handle": "genuineimpact",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc51fb48-67e6-4b01-b501-99b91717daa1_256x256.png",
+    "author_bio": "We're passionate to learn and explain investing with beautiful and simple visualizations. Love charts, stock deep-dives, and investment philosophies. ",
+    "twitter_screen_name": "genuine_impact"
   },
   {
     "id": 41377004,
     "name": "Capital Employed",
     "url": "https://www.capitalemployed.com",
-    "subscribers": 6000
+    "subscribers": 6000,
+    "author_name": "Capital Employed",
+    "author_handle": "capitalemployed",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3cc90950-3390-4072-be73-97dc0a6e0063_500x500.png",
+    "author_bio": "Fund manager interviews and stock pitches.",
+    "twitter_screen_name": "capitalemployed"
   },
   {
     "id": 933594,
     "name": "Tim Stoddart",
     "url": "https://www.timstodz.com",
-    "subscribers": 15000
+    "subscribers": 15000,
+    "author_name": "Tim Stoddart",
+    "author_handle": "timstodz",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe5ce673e-d9be-487f-a24c-aad221b0f924_960x960.jpeg",
+    "author_bio": "A morning newsletter on business, health, family and living with purpose. ",
+    "twitter_screen_name": "TimStodz"
   },
   {
     "id": 145290902,
     "name": "Institute of Economic Affairs",
     "url": "https://insider.iea.org.uk",
-    "subscribers": 13000
+    "subscribers": 14000,
+    "author_name": "Institute of Economic Affairs",
+    "author_handle": "ieainsider",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2189ed0e-c150-472f-bd98-653fd8947e1f_206x205.png",
+    "author_bio": null
   },
   {
     "id": 79578001,
     "name": "Maverick Equity Research",
     "url": "https://maverickequityresearch.substack.com",
-    "subscribers": 10000
+    "subscribers": 11000,
+    "author_name": "Maverick Equity Research",
+    "author_handle": "maverickequityresearch",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb858cb12-a7a9-482c-9e00-4f79b0196135_1600x1200.jpeg",
+    "author_bio": "Independent Investment Researcher & Investor: stocks, bonds & more. Risk management & hedging for an all weather portfolio. A Roger Federer fan ...",
+    "twitter_screen_name": "Maverick_Equity"
   },
   {
     "id": 57430432,
     "name": "Quality Stocks",
     "url": "https://qualitystocks.substack.com",
-    "subscribers": 6000
+    "subscribers": 6000,
+    "author_name": "Quality Stocks",
+    "author_handle": "qualitystocks",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F838957fd-7488-4b58-802f-bb880d73d3ff_400x400.jpeg",
+    "author_bio": "I provide valuable news and insights on the stock market, companies and industries. I share my watchlist, screeners and portfolios to help you improve your investments."
   },
   {
     "id": 22683301,
     "name": "100 Coaches",
     "url": "https://the100newsletter.substack.com",
-    "subscribers": 11000
+    "subscribers": 11000,
+    "author_name": "Scott Osman",
+    "author_handle": "the100newsletter",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc91801f7-2415-4057-9725-5ef95eba7800_1974x1979.jpeg",
+    "author_bio": "CEO at 100 Coaches Agency Where the best leaders in the world find the best coaches.",
+    "twitter_screen_name": "scottosman"
   },
   {
     "id": 175479,
     "name": "Jason Rigby",
     "url": "https://jasonrigby.substack.com",
-    "subscribers": 39000
-  },
-  {
-    "id": 96316240,
-    "name": "DealersEdge LLC",
-    "url": "https://dealersedge.substack.com",
-    "subscribers": 30000
+    "subscribers": 39000,
+    "author_name": "Jason Rigby",
+    "author_handle": "jasonrigby",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F22f5d93d-0aa5-44a0-9b33-f1a537418e25_3000x3000.jpeg",
+    "author_bio": "Empowering 46K+ Leaders on their Journey to Personal Growth & Authentic Leadership 🧠 Podcast Host | Ex-Marine "
   },
   {
     "id": 153167917,
     "name": "Nikki Anderson",
     "url": "https://userresearchacademy.substack.com",
-    "subscribers": 9000
+    "subscribers": 9000,
+    "author_name": "Nikki Anderson",
+    "author_handle": "userresearchacademy",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5e462fba-3fd2-4aa1-98e3-70614b8b07d5_3871x5009.jpeg",
+    "author_bio": "Nikki Anderson - AKA The User Research Resource Queen - is a blogger, podcaster, and founder of User Research Academy, where she publishes content dedicated to helping user researchers conduct research more creatively and confidently"
   },
   {
     "id": 13380174,
     "name": "Line Editor",
     "url": "https://www.readtheline.ca",
-    "subscribers": 25000
-  },
-  {
-    "id": 110060060,
-    "name": "Invest In Assets 📈",
-    "url": "https://www.investinassets.net",
-    "subscribers": 10000
+    "subscribers": 25000,
+    "author_name": "Line Editor",
+    "author_handle": "theline",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe532cad0-6a5f-40ef-98d1-7702a4c5b017_1000x579.jpeg",
+    "author_bio": null,
+    "twitter_screen_name": "the_lineca"
   },
   {
     "id": 30338892,
     "name": "Callum Thomas",
     "url": "https://www.chartstorm.info",
-    "subscribers": 45000
+    "subscribers": 45000,
+    "author_name": "Callum Thomas",
+    "author_handle": "chartstorm",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1f60daa6-cc60-440c-9f55-7106c0be0681_400x400.png",
+    "author_bio": "Head of Research and Founder @topdowncharts  \nLikes: charts, data, macro, multi-asset investing, economics, geopolitics, space, science, hiking, fishing,  golf, mountain biking. ",
+    "twitter_screen_name": "Callum_Thomas"
   },
   {
     "id": 2357986,
     "name": "Rashmee Roshan Lall",
     "url": "https://thisweekthosebooks.substack.com",
-    "subscribers": 10000
-  },
-  {
-    "id": 55650167,
-    "name": "Richard Katz",
-    "url": "https://richardkatz.substack.com",
-    "subscribers": 9000
+    "subscribers": 10000,
+    "author_name": "Rashmee Roshan Lall",
+    "author_handle": "rashmee",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F76bf1d13-b949-4ab8-8fea-b9d1315961e3_512x512.jpeg",
+    "author_bio": "Journalist by trade & inclination. PhD. Analyst. Author. I join the dots on international affairs and the world of books so you don't have to.",
+    "twitter_screen_name": "rashmeerl"
   },
   {
     "id": 539264,
     "name": "Mark Leon Goldberg",
     "url": "https://www.globaldispatches.org",
-    "subscribers": 13000
-  },
-  {
-    "id": 101240996,
-    "name": "Revelo Intel",
-    "url": "https://revelointel.substack.com",
-    "subscribers": 14000
+    "subscribers": 14000,
+    "author_name": "Mark Leon Goldberg",
+    "author_handle": "globaldispatches",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5776dc3b-981a-4735-a906-7b6965deae39_1030x978.png",
+    "author_bio": "Mark Leon Goldberg is a veteran international affairs journalist who writes the Global Dispatches Substack and hosts the Global Dispatches podcast. \nhttps://www.globaldispatches.org/ \n"
   },
   {
     "id": 155943739,
     "name": "F-Prime Capital",
     "url": "https://fintechprimetime.substack.com",
-    "subscribers": 5000
-  },
-  {
-    "id": 13277919,
-    "name": "Arnold Kling",
-    "url": "https://arnoldkling.substack.com",
-    "subscribers": 8000
-  },
-  {
-    "id": 13857264,
-    "name": "Sterling Smith",
-    "url": "https://sterlingsmith.substack.com",
-    "subscribers": 5000
-  },
-  {
-    "id": 1235064,
-    "name": "Aaron Edelheit",
-    "url": "https://mindsetvalue.substack.com",
-    "subscribers": 5000
-  },
-  {
-    "id": 2374227,
-    "name": "Simon Owens",
-    "url": "https://simonowens.substack.com",
-    "subscribers": 15000
-  },
-  {
-    "id": 245231,
-    "name": "Ergest Xheblati",
-    "url": "https://sqlpatterns.com",
-    "subscribers": 6000
-  },
-  {
-    "id": 3949661,
-    "name": "G. Plaster",
-    "url": "https://diie.substack.com",
-    "subscribers": 27000
-  },
-  {
-    "id": 87388428,
-    "name": "Global Jewish Future Inc.",
-    "url": "https://www.futureofjewish.com",
-    "subscribers": 72000
-  },
-  {
-    "id": 1233922,
-    "name": "Barry C. Knapp",
-    "url": "https://ironsidesmacro.substack.com",
-    "subscribers": 6000
-  },
-  {
-    "id": 125797314,
-    "name": "Bloom Equity Partners",
-    "url": "https://bloomvp.substack.com",
-    "subscribers": 9000
-  },
-  {
-    "id": 17777968,
-    "name": "Recovering Overthinker",
-    "url": "https://existentialespresso.substack.com",
-    "subscribers": 7000
+    "subscribers": 5000,
+    "author_name": "F-Prime",
+    "author_handle": "fintechprimetime",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85a8e120-9e81-4cc4-a44c-064a69ede7fa_328x328.png",
+    "author_bio": null
   },
   {
     "id": 1992173,
     "name": "Stuart Winchester",
     "url": "https://www.stormskiing.com",
-    "subscribers": 15000
-  },
-  {
-    "id": 18355161,
-    "name": "NFT God",
-    "url": "https://nftgod.substack.com",
-    "subscribers": 31000
-  },
-  {
-    "id": 17504189,
-    "name": "Jared Doerfler",
-    "url": "https://perfectputt.substack.com",
-    "subscribers": 10000
-  },
-  {
-    "id": 1999649,
-    "name": "Branko Milanovic",
-    "url": "https://branko2f7.substack.com",
-    "subscribers": 13000
-  },
-  {
-    "id": 11950626,
-    "name": "Momence Inc.",
-    "url": "https://momence.substack.com",
-    "subscribers": 65000
-  },
-  {
-    "id": 27532982,
-    "name": "Martyn Eeles",
-    "url": "https://healthvc.substack.com",
-    "subscribers": 21000
-  },
-  {
-    "id": 8726667,
-    "name": "Russell Nohelty",
-    "url": "https://www.theauthorstack.com",
-    "subscribers": 45000
-  },
-  {
-    "id": 48117658,
-    "name": "Guillermo Flor",
-    "url": "https://www.productmarketfit.tech",
-    "subscribers": 16000
-  },
-  {
-    "id": 1160680,
-    "name": null,
-    "url": "https://lex.substack.com",
-    "subscribers": 98000
-  },
-  {
-    "id": 2234824,
-    "name": "The Spinoff",
-    "url": "https://thespinoff.substack.com",
-    "subscribers": 39000
-  },
-  {
-    "id": 87024491,
-    "name": "K-Oh",
-    "url": "https://ohmyheart.substack.com",
-    "subscribers": 5000
-  },
-  {
-    "id": 3144231,
-    "name": "Claire Diaz-Ortiz",
-    "url": "https://clairediazortiz.substack.com",
-    "subscribers": 13000
-  },
-  {
-    "id": 10859585,
-    "name": "Arny Trezzi",
-    "url": "https://www.palantirbullets.com",
-    "subscribers": 6000
+    "subscribers": 15000,
+    "author_name": "Stuart Winchester",
+    "author_handle": "skiing",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd262ecef-55c7-4a86-8e18-adb2f1830365_900x675.jpeg",
+    "author_bio": "Everyone's searching for skiing's soul. I'm trying to find its brains.",
+    "twitter_screen_name": "StormSkiJournal"
   },
   {
     "id": 35728695,
     "name": "Linh Phan",
     "url": "https://www.freelancetofreedom.info",
-    "subscribers": 21000
-  },
-  {
-    "id": 107352906,
-    "name": "Forrest Hanson",
-    "url": "https://forresthanson.substack.com",
-    "subscribers": 15000
+    "subscribers": 21000,
+    "author_name": "Linh Phan",
+    "author_handle": "linhphan",
+    "author_photo_url": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec40e2e3-4f22-456b-820f-2db71dc2af13_1536x1537.jpeg",
+    "author_bio": "Book Author. Coach. Solo-preneur."
   }
 ]
